@@ -1,0 +1,5 @@
+_site/*
+*.scss
+.sass-cache/*
+.DS_Store
+*.db
