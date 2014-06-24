@@ -24,7 +24,7 @@ Everybody chooses different challenges. Some prefer extreme spots, others do sta
 
 When I go on a trip, I have this fear of getting lost, not being able to make my way to the final destination, being despised by people around, lose my flight, etc. Somehow during journeys I push myself to become brave, confident and powerful. New circumstances trigger my survival mode. 
 
-My favorite part of traveling is the transit from source to destination, being done particularly alone. I have there stories when a handle from my heavy bag rips off and I have to drag it for a long time, when I address the fast passing crowd to help me buy a ticket because the ticket-lady doesn't speak anything else besides Polish, when I arrive at 5AM in Kiev and have less than 10 UAH to get from the bus station to the airport in time, when a Greek speaking Romanian allows me to wait inside the train wagon and calls my friends to pick me up, because it's 2AM, cold and dangerous outside.
+My favorite part of traveling is the transit from source to destination, being done particularly alone. I have these stories when a handle from my heavy bag rips off and I have to drag it for a long time, when I address the fast passing crowd to help me buy a ticket because the ticket-lady doesn't speak anything else besides Polish, when I arrive at 5AM in Kiev and have less than 10 UAH to get from the bus station to the airport in time, when a Greek speaking Romanian allows me to wait inside the train wagon and calls my friends to pick me up, because it's 2AM, cold and dangerous outside.
 
 I pull myself together and do something I would never do. And since in my native city I know how to get around, I don't even try to get out of my comfort zone.
 
