@@ -1,5 +1,5 @@
 _site/*
-*.scss
+_scss/*
 .sass-cache/*
 .DS_Store
 *.db
