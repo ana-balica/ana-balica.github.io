@@ -1,0 +1,82 @@
+.posts {
+  width: 100%;
+  max-width: 660px;
+  margin: $spacing-s auto;
+  font-family: $variant-family;
+  background: white;
+  z-index: 1;
+  padding: 0 2em;
+
+  .post {
+    border-bottom: 1px dotted $border-color;
+    padding: $spacing-m 0;
+
+    .datetime {
+      float: left;
+      position: relative;
+      width: 20%;
+
+      .post-meta {
+        display: block;
+        text-align: center;
+        font-family: $font-family;
+
+        .day {
+          display: block;
+          font-size: 240%;
+          font-weight: 800;
+          color: $highlight-color;
+          line-height: 1em;
+        }
+
+        .month-year {
+          display: block;
+          font-size: 60%;
+        }
+      }
+    }
+
+    .post-header {
+      float: right;
+      width: 80%;
+      margin: 0;
+
+      .post-title {
+        font-size: 180%;
+        line-height: 135%;
+        font-family: $font-family;
+        margin: 0 0 $spacing-xs;
+        color: $text-color;
+        line-height: 1em;
+
+        a {
+          text-decoration: none;
+          color: $text-color;
+          font-weight: bold;
+        }
+      }
+    }
+
+    @media (max-width: 642px) {
+      .datetime {
+        display: block;
+        width: 100%;
+        padding-bottom: $spacing-s;
+      }
+
+      .post-header {
+        display: block;
+        width: 100%;
+        text-align: center;
+
+        .post-excerpt {
+          font-size: $font-size-m;
+        }
+      }
+    }
+  }
+}
+
+.clearfix {
+  clear: both;
+}
