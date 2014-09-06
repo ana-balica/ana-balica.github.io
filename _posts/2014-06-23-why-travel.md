@@ -1,6 +1,7 @@
 ---
-layout: post_page
-title: Why travel?
+layout: post
+title: "Why travel?"
+date:   2014-06-23
 ---
 
 > And Siobhan says people go on holidays to see new things and relax, but it wouldn't make 
@@ -9,8 +10,6 @@ title: Why travel?
 > think that there are so many things just in one house that it would take years to think about all of 
 > them properly. And also, a thing is interesting because of thinking about it and not because of 
 > being new.
->
-> <p class="quote">Extract from <a href="http://www.amazon.com/The-Curious-Incident-Dog-Night-Time/dp/1400032717">"The Curious Incident of the Dog in the Night-Time" by Mark Haddon</a></p>
 
 Now I feel abashed to say I travel to see and discover new things. If I insist on being honest with myself, than it becomes clear I lost any interest in the surroundings long ago. The reason might be the likelihood of old European cities -- somehow they all look the same.
 
