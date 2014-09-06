@@ -1,64 +1,79 @@
 <!DOCTYPE html>
-<html lang="en">
-	<head>
-		<meta charset="utf-8"/>
-		<title>{% if page.title %} {{ page.title }} {% endif %}</title>
-		<!-- For responsive site
-			<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		-->
-		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-		<link rel="author" href="/humans.txt">
-		<meta name="description" content="Blog about happy traveling">
-		<link rel="stylesheet" href="/css/style.css">
-		<!--[if IE 7]>
-			<html class="ie7"> 
-			<link rel="stylesheet" type="text/css" href="/css/font-awesome-ie7.min.css">
-		<![endif]-->
-		<!--[if IE 8]><html class="ie8"> <![endif]-->		
-		<!--[if lt IE 9]>
-		  <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-		<![endif]-->
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+  <head>
+      <title>{{ site.name }} - {{ site.description }}</title>
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+      <meta http-equiv="content-language" content="en-gb" />
+      <meta name="description" content="Blog about code, travel and social involvement.">
+      <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+      <link href="//fonts.googleapis.com/css?family=Open+Sans:400italic,400,300,700|Lora:400,700,400italic" rel="stylesheet" type="text/css">
+      <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/main.css" />
+      <link href="atom.xml" type="application/atom+xml" rel="alternate" title="Site ATOM Feed">
+  </head>
 
-		<link rel="apple-touch-icon-precomposed" sizes="144x144" href="ico/apple-touch-icon-144-precomposed.png">
-		<link rel="apple-touch-icon-precomposed" sizes="114x114" href="ico/apple-touch-icon-114-precomposed.png">
-		<link rel="apple-touch-icon-precomposed" sizes="72x72" href="ico/apple-touch-icon-72-precomposed.png">
-		<link rel="apple-touch-icon-precomposed" href="ico/apple-touch-icon-57-precomposed.png">
-		<link rel="shortcut icon" href="ico/favicon.png">	    
-	</head>
-	<body>
-	<!-- Header
-		================================================== -->
-	<header>
+  <body>
+    <!--[if lt IE 7]>
+        <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
+    <![endif]-->
 
-	</header>
+    <div class="off-canvas">
+      <figure class="avatar">
+        <img src="{{ site.baseurl }}/assets/img/avatar.jpg" alt="Picture" title="That's me, {{ site.author }}.">
+      </figure>
+      <div class="bio">
+          <h1>Hi, I'm {{ site.author }}.</h1>
+          <p>{{ site.author-bio }}</p>
+      </div>
+      <nav>
+        <ul>
+          <li><a href="mailto:ana.balica@gmail.com" target="_top"><span class="icon-mail"></span></a></li>
+          <li><a href="https://github.com/ana-balica" target="_blank"><span class="icon-github"></span></a></li>
+          <li><a href="https://twitter.com/anabalica" target="_blank"><span class="icon-twitter"></span></a></li>
+          <li><a href="https://www.linkedin.com/pub/ana-balica/78/36b/720" target="_blank"><span class="icon-linkedin"></span></a></li>
+        </ul>
+      </nav>
+    </div>
 
-	{{ content }}
 
-	<footer>
-		<div class="container">
-			Theme provided by <a href="http://richbray.me/frap/">Frappuccino</a>
-		</div>
-	</footer>
+    <div class="site-wrapper">
 
-	<!-- Footer
-		================================================== -->
+      <header>
+        <div class="h-wrap center">
+          <a href="{{ site.url }}" title="Back to Homepage">
+            <img src="{{ site.baseurl }}/assets/img/umbrella-icon.png">
+          </a>
+          <a class="menu-icon" title="Open Bio"><span class="lines"></span></a>
+        </div>
+      </header>
 
-	<!-- Javascripts 
-		================================================= -->
-	<script src="/js/jquery.min.js"></script>
-	<script src="/js/custom.js"></script>
+      <main>
+        {{ content }}
+      </main>
 
-	<!-- Analytics
-	================================================== -->
-	<script>
-		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+      <footer>
+        <small>Powered by Jekyll - Theme merge between <a href="https://github.com/m3xm/hikari-for-Jekyll">hikari</a> and <a href="https://github.com/hmfaysal/Notepad">Notepad</a></small>
+      </footer>
 
-		ga('create', 'UA-52365795-1', 'auto');
-		ga('send', 'pageview');
+    </div> 
+    {% comment %} site-wrapper {% endcomment %}
 
-	</script>	
-	</body>
+    <script src="{{ site.baseurl }}/js/main.js"></script>
+    {% comment %} Google Analytics {% endcomment %}
+    {% if site.ga_tracking_id and site.ga_domain %}
+      <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', '{{ site.ga_tracking_id }}', '{{ site.ga_domain }}');
+        ga('send', 'pageview');
+      </script>
+    {% endif %}
+
+  </body>
 </html>
