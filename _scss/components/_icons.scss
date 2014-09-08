@@ -11,7 +11,7 @@
   font-style: normal;
 }
 
-.icon-mail, .icon-github, .icon-twitter, .icon-linkedin {
+.icon-mail, .icon-github, .icon-twitter, .icon-linkedin, .icon-umbrella {
   font-family: 'icomoon';
   speak: none;
   font-style: normal;
@@ -33,4 +33,7 @@
 }
 .icon-linkedin:before {
   content: "\e603";
+}
+.icon-umbrella:before {
+  content: "\e604";
 }

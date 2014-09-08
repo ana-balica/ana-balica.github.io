@@ -21,6 +21,11 @@ header {
     }
   } // end h1.title
 
+  .logo {
+    color: $text-color;
+    font-size: $font-size-l * 2.4;
+  }
+
   .close {
     .lines {
       -webkit-transition: background .3s 0s ease;
