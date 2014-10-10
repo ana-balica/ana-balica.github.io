@@ -1,0 +1,66 @@
+==================================================================
+https://keybase.io/anabalica
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://ana-balica.github.io
+  * I am anabalica (https://keybase.io/anabalica) on keybase.
+  * I have a public key with fingerprint 9A7A 4FEC F098 EF9F 10DC  270D 4465 297A 2944 787C
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "9a7a4fecf098ef9f10dc270d4465297a2944787c",
+            "host": "keybase.io",
+            "key_id": "4465297a2944787c",
+            "uid": "880191ea91f074dc886bd1ba4b9f1800",
+            "username": "anabalica"
+        },
+        "service": {
+            "hostname": "ana-balica.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1412959646,
+    "expire_in": 157680000,
+    "prev": "a9683229d785aba2b7f421778e7b32b1d4599bde29684906627006657d3a86f4",
+    "seqno": 8,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v1.1.3
+Comment: https://keybase.io/crypto
+
+yMHrAnicO8LLzMDFKNnIutzRe5IL4+kDv0sZQix451UrJeWnVCpZVStlp4KptMy8
+9NSigqLMvBIlKyXLRPNEk7TU5DQDS4vUNMs0Q4OUZCNzgxQTEzNTI0vzRCNLExNz
+C/NkJR2ljPxikA6gMUmJxal6mflAMSAnPjMFKIpFfSlYwsLCwNDSMDXR0jDNwNwk
+JdnCwiwpxTAp0SQJaJmFgQFIYXFqUV5ibipQdWJeYlJiTmZyolKtjhJQuCwzORXk
+aJDdCCW6EDV66ZklGaVJEJcUFOWX5Cfn5wBVZJSUFBRbgUwoqSwAaSlPTYqHGhaf
+lJmXAgwBoI6y1KLizPw8JStDoMrkkkyQ6YYmhkaWppZmJmY6SqkVBZlFqfGZIBWm
+5mZAtxoYgOxJLQO5wtLMwtjIyDLF3MIU6GSjJPM0EyNDc3OLVPMkY6MkwxQTU0vL
+pJRUI6A6E0sDMzNgoAJJU/MU40QLszQTJZD3CvPylawsgM5MTAcaWZyZnpdYUlqU
+qlR76EAMCwMjFwMbKxMoDhm4OAVgMZsxhYOhjf1L1br/vNc0Nms5aC3atUMvb3rl
+/+b/exJMEiJ3ft7octJnUVyE9Z1121Y6xkQH2ft/9ZwVtPVt+kSxq3Uy248E6l4x
+M82esf7P9vy5s6xlNNaYP+G6KvP1c+ePdj/F7lQpy7hjL6akT3nTuTTG5Wd+ue1C
+o9VznBlrDkuyqFn/bJi2dUMMy93GyfFBxVM2XXtirfjyn/h/K85ozRr2OVbvHn2e
+y3dxXd37rmWcydd3TjrfxRHaYHV9tf33Razrumcf/S/w24/j0ISNO8+GluUk19hp
+vPu6sOBADI+0ood89jynSY4JosI57T11adU3uj912V+UUnm8SM+9OdW+5J/WfW3Z
+3LTpQdMMFt4HAP3yEWg=
+=/JdZ
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/anabalica
+
+==================================================================
+
