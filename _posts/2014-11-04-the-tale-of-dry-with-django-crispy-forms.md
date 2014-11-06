@@ -319,5 +319,7 @@ That's all folks! Keep DRY and write unittests!
 
 -----
 
-P.S. In case you are still in doubt, here is what [Daniel Greenfeld](http://pydanny.com/) 
-says: "As one of the leads of django-crispy-forms, I approve this blog post. :-)"
+P.S. In case you are still in doubt about the provided solution, here is what 
+[Daniel Greenfeld](http://pydanny.com/) says: "As one of the leads of 
+django-crispy-forms, I approve this blog post. :-)"
+
