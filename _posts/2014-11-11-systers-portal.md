@@ -39,7 +39,8 @@ resources, community members.
 
 Systers Portal was started in summer 2014 as a 
 [Google Summer of Code](http://www.google-melange.com/gsoc/homepage/google/gsoc2014) 
-project involving two students: me and Chitra Khatwani. We launched a prototype, 
+project involving two students: me and Chitra Khatwani, under the mentorship of Lynn Root, 
+Rosario Robinson, Promita Bose and Laura Cassell. We launched a prototype, 
 hosted on [portal.systers.org](http://portal.systers.org/).
 
 *Disclaimer: the prototype hosted on [portal.systers.org](http://portal.systers.org/) 
