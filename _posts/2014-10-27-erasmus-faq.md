@@ -1,7 +1,9 @@
---- 
-layout: post 
-title: "Erasmus FAQ" 
-date:   2014-10-27 
+---
+layout: post
+title: "Erasmus FAQ"
+date:   2014-10-27
+tags:
+  - social
 ---
 
 I see a lot of interest from students towards going on Erasmus. Their excitement
@@ -16,11 +18,11 @@ in any specific order.
 In the official "Learning Agreement" you will see that each student is expected
 to collect 30 credits per semester. In reality you can have less, but still a
 fair amount of courses and credits. At the Czech Technical University we were
-given the following numbers: 
+given the following numbers:
 
-* more than 27 -- you got the perfect score 
-* 23 - 27 -- that's a good result 
-* 17 - 23 -- fair, but you could have done better 
+* more than 27 -- you got the perfect score
+* 23 - 27 -- that's a good result
+* 17 - 23 -- fair, but you could have done better
 * less than 17 -- you might get kicked out of the program
 
 The numbers are extracted from memory, so expect some delta error. Don't risk
@@ -38,7 +40,7 @@ your last thesis-semester at the host university. If you have the topic or the
 field of study you want to work in, it will be easy to spot the right mentor.
 Approach the teacher and explain what you are expecting from him as a mentor,
 what are your responsibilities towards the home and host university. Most
-probably it will work out ok. 
+probably it will work out ok.
 
 ### 3. Do you need to find mentor before going or you can do so later?
 
@@ -68,14 +70,14 @@ you are their student. And that's all.
 
 It's hard to know what are the selection criteria. I might assume that
 university record is important, along with extracurricular activities,
-involvement in a variety of projects and a good motivational letter. 
+involvement in a variety of projects and a good motivational letter.
 
 ### 8. So how was your Erasmus?
 
 It is definitely a good experience. I have plenty of good memories. I have
 managed to make good friends, live in one of the most beautiful cities of
 Europe, see student-friendly environment created to facilitate studies and
-teamwork. 
+teamwork.
 
 At times it was not easy, due to the temptation of traveling and exploring,
 instead of studying. But it all can be balanced well with the proper discipline.
@@ -83,7 +85,7 @@ instead of studying. But it all can be balanced well with the proper discipline.
 ### 9. Did you write your thesis at host university?
 
 Yes. The core part. Some sections, bugfixes, formatting were done by the end of
-the semester, when I came back to Moldova to prepare to defend the thesis. 
+the semester, when I came back to Moldova to prepare to defend the thesis.
 
 ### 10. How did you find the study program compared to the one from Technical University of Moldova? Did the complexity level grow exponentially?
 
@@ -91,9 +93,9 @@ I would say the study programs are comparable. I didn't find any difficulty to
 pass my courses. But I know some of the courses that are extremely complicated
 to pass at Czech Technical University and require a lot of hard work. If you
 find the course interesting and important to you nevertheless, you can give it a
-try at least. 
+try at least.
 
-I met some excellent professors at Technical University of Moldova. I was less 
+I met some excellent professors at Technical University of Moldova. I was less
 inspired by Czech Technical University professors. But it's understandable, since
 I have spend there only one year and generally, teachers invest less effort in
 Erasmus students than in regular students.
@@ -106,13 +108,13 @@ who have TOEFL certificate.
 
 I have no information about the English university exam though. Since I was
 doing my studies at FAF (English Taught Honors Program in "Computer Science"),
-we were given automatically a certificate from TUM. 
+we were given automatically a certificate from TUM.
 
-### 12. Can you choose where (college/university) to apply or are you distributed? 
+### 12. Can you choose where (college/university) to apply or are you distributed?
 
 You can choose up to 3 partner universities, where you would like to go. The
 motivational letter respectively should be addressed to all of them. Eventually
-you will be selected to one of the universities you have listed. 
+you will be selected to one of the universities you have listed.
 
 ### 13. Can you go to PhD directly or you need to do Masters first?
 
@@ -123,6 +125,6 @@ any further (Bachelor -- Masters -- PhD).
 
 ----
 
-This is it. I hope I cleared out some questions for you. Next application process 
+This is it. I hope I cleared out some questions for you. Next application process
 starts on November 1st 2014, so start your application now and good luck :)
 

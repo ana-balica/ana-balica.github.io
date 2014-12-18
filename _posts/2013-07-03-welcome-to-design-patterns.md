@@ -2,6 +2,8 @@
 layout: post
 title:  "Welcome to Design Patterns"
 date:   2013-07-03
+tags:
+  - code
 ---
 
 There are many recommended books and articles to be read on Design Patterns. High variety leads to a problem of choice. So based on the magic of rational randomization I decided to read and **understand** [Head First Design Patterns](http://www.amazon.com/First-Design-Patterns-Elisabeth-Freeman/dp/0596007124). I am a Head First virgin, so I even read the pre-introduction with explanations on metacognition, pretty pictures and redundancy. So far, so good.
@@ -12,11 +14,11 @@ One chapter &#8594; one article. And the first one is called *Welcome to Design 
 
 ### Encapsulation
 
-The first announced Design Principle in the book is: 
+The first announced Design Principle in the book is:
 
 > Identify the aspects of your application that vary and separate them from what stays the same.
 
-That is the guru of all Design Patterns. That means that all patterns are trying to accomplish this in some way or another. It is very important to separate what varies from what stays the same, since changes are too frequent in IT world. 
+That is the guru of all Design Patterns. That means that all patterns are trying to accomplish this in some way or another. It is very important to separate what varies from what stays the same, since changes are too frequent in IT world.
 
 The examples in the book are based on ducks. We will examine a very similar situation based on the Design Puzzle. Initially we have a very simple application that is made of a simple character hierarchy.
 
@@ -25,8 +27,8 @@ The examples in the book are based on ducks. We will examine a very similar situ
 That's a very inflexible hierarchy and will lead to many problems over time:
 
 1. What if Queen doesn't fight? Should you overwrite the method in this class?
-2. Are there going to be more characters that don't fight? Will you overwrite the behaviour in every class? 
-2. Trolls fight different from Kings! 
+2. Are there going to be more characters that don't fight? Will you overwrite the behaviour in every class?
+2. Trolls fight different from Kings!
 
 Ok, that's the moment when you should `SHIFT+Delete` your code. Kidding :) You need to apply that one first principle and conceptually do the following:
 

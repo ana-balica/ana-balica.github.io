@@ -2,6 +2,9 @@
 layout: post
 title:  "CLI and GUI git"
 date:   2013-04-21
+tags:
+  - code
+  - git
 ---
 
 To be clear from the very beginning, I vote for CLI git to start with. There's nothing better than understanding what exactly you are doing and not just try and click every available button. Just imagine yourself connecting to a remote server that doesn't have your favorite GUI client.
@@ -22,10 +25,10 @@ ls = log --pretty=format:"%C(yellow)%h%Cred%d\\ %Creset%s%Cblue\\ [%cn]" --decor
 Therefore the command `git ls --graph` will output the following:
 {% highlight bash %}
 \*   46be671\ Merge branch 'development' of github.com:author/repo into development\ [author]
-|\  
+|\
 | * fe8bef7\ commit nr 5\ [author]
 | *   b801dc6\ Merge branch 'development' of github.com:author/repo into development\ [author]
-| |\  
+| |\
 | | * ace6bdb\ commit nr 4\ [author]
 | * | 2fd916a\ commit nr 3\ [author]
 | * | 7419237\ commit nr 2\ [author]
@@ -67,7 +70,7 @@ The client git is pretty straight-forward and has only the ability to blame an e
 
 ### Patch
 
-Very often I find myself willing to add to the staged area only several lines from a file. Then I do `git add -p` and add just the hunks that I want. With gitg I choose the Commit tab and the file I want to patch and simply by holding `CTRL` and clicking on the lines, I can choose exactly what I want to stage. 
+Very often I find myself willing to add to the staged area only several lines from a file. Then I do `git add -p` and add just the hunks that I want. With gitg I choose the Commit tab and the file I want to patch and simply by holding `CTRL` and clicking on the lines, I can choose exactly what I want to stage.
 
 The client has this nice feature to stage specific lines, but at the same time it can be quite annoying when you got big chunks of code and you want to make it fast. Some git clients allow to select lines and stage them all at once, unfortunately not gitg.
 

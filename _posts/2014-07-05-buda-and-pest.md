@@ -2,6 +2,8 @@
 layout: post
 title: "Buda and Pest"
 date:   2014-07-05
+tags:
+  - travel
 ---
 
 Every time going on vacation to some new place I am telling myself to not look into any guides and follow my intuition. I want to be amazed and surprised by what I see and preferable have zero expectations. That doesn't work always, because you start getting this feeling that you are simply passing by old buildings, monuments, squares and having no idea what and why they are here. A piece of history or a legend helps to grasp the beauty of the place. Too bad for my trip to Budapest I didn't research on any of that. At least kept my WOW moment.
@@ -16,13 +18,13 @@ I usually say don't go where all the tourists go, but not in this case. Natural 
 
 ### Landmarks
 
-Be a tourist till the end and go take tons of pictures by the Budapest [Parliament](http://www.parlament.hu/). This building is huge, I mean it. I haven't been inside, but was told very little can be seen and is not worth the money. Don't forget to check on the monuments around, [Museum of Ethnography](http://micro.neprajz.hu/), a bunch of statues and the rocky beach by the Danube river. 
+Be a tourist till the end and go take tons of pictures by the Budapest [Parliament](http://www.parlament.hu/). This building is huge, I mean it. I haven't been inside, but was told very little can be seen and is not worth the money. Don't forget to check on the monuments around, [Museum of Ethnography](http://micro.neprajz.hu/), a bunch of statues and the rocky beach by the Danube river.
 
 ![Budapest Parliament]({{ site.baseurl }}/assets/img/budapest/parliament.jpg)
 
 ![Museum of Etnography]({{ site.baseurl }}/assets/img/budapest/etnography.jpg)
 
-Across the river you can see the [Buda Castle](http://en.wikipedia.org/wiki/Buda_Castle), [Matthias Church](http://en.wikipedia.org/wiki/Matthias_Church) and [Fisherman's Bastion](http://www.fishermansbastion.com/). 
+Across the river you can see the [Buda Castle](http://en.wikipedia.org/wiki/Buda_Castle), [Matthias Church](http://en.wikipedia.org/wiki/Matthias_Church) and [Fisherman's Bastion](http://www.fishermansbastion.com/).
 
 ![Fisherman's Bastion]({{ site.baseurl }}/assets/img/budapest/bastion.jpg)
 
@@ -32,7 +34,7 @@ Not far from Szechenyi baths you can see [Heroes' Square](http://en.wikipedia.or
 
 ![Timewheel]({{ site.baseurl }}/assets/img/budapest/timewheel.jpg)
 
-St. Stephen's Basilica keeps up with the majestic atmosphere of the city. Go up if you want to see the city from the top, because it is one of the two tallest buildings in Budapest and no other building is allowed to overcome its height of 96 meters. 
+St. Stephen's Basilica keeps up with the majestic atmosphere of the city. Go up if you want to see the city from the top, because it is one of the two tallest buildings in Budapest and no other building is allowed to overcome its height of 96 meters.
 
 ![St. Stephen's Basilica]({{ site.baseurl }}/assets/img/budapest/stephen_church.jpg)
 
@@ -40,7 +42,7 @@ Even though I am not particularly interested in those landmarks and have very li
 
 ### Parapark
 
-Now about the cool stuff. [Parapark](http://parapark.hu/) is a game where you descent with your friends into a basement to crack some code, solve puzzles and reveal the mysteries. It is the classical doors puzzle game with real locks, keys, basement heavy smell, creepy background sounds and Xubuntu installed on an in-game PC. Go to their website and book a last minute game. 
+Now about the cool stuff. [Parapark](http://parapark.hu/) is a game where you descent with your friends into a basement to crack some code, solve puzzles and reveal the mysteries. It is the classical doors puzzle game with real locks, keys, basement heavy smell, creepy background sounds and Xubuntu installed on an in-game PC. Go to their website and book a last minute game.
 
 ![Parapark]({{ site.baseurl }}/assets/img/budapest/parapark1.jpg)
 

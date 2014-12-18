@@ -2,6 +2,8 @@
 layout: post
 title: "Packing light is hard"
 date:   2014-06-26
+tags:
+  - travel
 ---
 
 Especially for girls. I used to pack up a giant travel luggage, even if I was going to be out for 2 days. ["I dress according to the moods I sense in the room. As such, I must have options."](http://www.imdb.com/title/tt3388032/?ref_=ttep_ep7) And my options were huge, same as my entire closet.
@@ -23,7 +25,7 @@ I usually have blind faith that I will be able to get some work done, therefore 
 * notebook
 * music player
 
-Moreover it has a GPS and quite often represents an entertainment device. Oh, I forgot, you can make calls also. Along with the smartphone, I usually take a pair of earphones and my cable charger. Actually this time I will skip the charger and the power adapter, since I am visiting a friend and every house has a collection of micro USB cables. The point is to get maximum usefulness from multipurpose devices. 
+Moreover it has a GPS and quite often represents an entertainment device. Oh, I forgot, you can make calls also. Along with the smartphone, I usually take a pair of earphones and my cable charger. Actually this time I will skip the charger and the power adapter, since I am visiting a friend and every house has a collection of micro USB cables. The point is to get maximum usefulness from multipurpose devices.
 
 During a 3-day trip I don't think I will get much reading done, so I am leaving my Kindle at home. At the same time I am not totally detached from my collection of books, since Kindle app syncs with your Amazon account and *viva le cloud* -- I can read from my phone. Less convenient, but still better.
 
@@ -52,7 +54,7 @@ Everything else sums up to this:
 
 ![Travel Kit]({{ site.baseurl }}/assets/img/packing/travel-kit.jpg)
 
-The little bottles of 100ml are simple, yet brilliant. You can buy a 4-pack from IKEA. I use them for shampoo, soap, solution. And the most awesome part is that you can take them on-board of an airplane. 
+The little bottles of 100ml are simple, yet brilliant. You can buy a 4-pack from IKEA. I use them for shampoo, soap, solution. And the most awesome part is that you can take them on-board of an airplane.
 
 ![IKEA bottle]({{ site.baseurl }}/assets/img/packing/ikea_bottle.jpg)
 

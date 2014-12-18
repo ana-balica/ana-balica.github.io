@@ -2,6 +2,9 @@
 layout: post
 title: "xkcd getter"
 date:   2013-04-25
+tags:
+  - code
+  - python
 ---
 
 Some time ago I had an assignment to implement a crawler. Now I understand that I didn't do the right thing, since a crawler is a program that will follow links in a systematical manner on every page. What I did is called a spider - a program that downloads web pages. Well, you can take your spider, add some parsing, extract the necessary links, follow them, download web pages and basically this is a crawler.
@@ -40,13 +43,13 @@ Create a separate class that will hold the download functionality. Here is the s
 class Downloader():
   '''
   Class to retreive HTML code
-  and binary files from a 
+  and binary files from a
   specific website
   '''
- 
+
   def __init__(self, url):
     self.url = url
- 
+
   def download(self, image_name='', is_image=False):
     try:
       browser = urllib.urlopen(self.url)
@@ -60,7 +63,7 @@ class Downloader():
     else:
       print 'Bad header response'
       sys.exit()
- 
+
     if is_image:
       self.save_image(contents, image_name)
 
@@ -79,7 +82,7 @@ There is also a scenario when the downloaded content is an image (binary file). 
 
 ### Parser
 
-Parser class is a not a generic class. It is build specifically for parsing [xkcd.com](http://xkcd.com/). If you plan on extending the spider, then it might be a good idea to create an interface `Parser` and let other classes implement that interface. 
+Parser class is a not a generic class. It is build specifically for parsing [xkcd.com](http://xkcd.com/). If you plan on extending the spider, then it might be a good idea to create an interface `Parser` and let other classes implement that interface.
 
 Since the `xkcdParser` class is a bit long, we will examine it in chunks.
 
@@ -88,7 +91,7 @@ class xkcdParser():
   '''
   Class for parsing xkcd.com
   '''
- 
+
   def __init__(self):
     self.url = "http://xkcd.com/"
     self.last_comic_nr = None
@@ -106,7 +109,7 @@ class xkcdParser():
     if self.contents:
       tree = etree.HTML(self.contents)
       self.title = tree.xpath("string(//div[@id='ctitle'])")
- 
+
   def get_caption(self):
     if self.contents:
       tree = etree.HTML(self.contents)
@@ -116,24 +119,24 @@ class xkcdParser():
     if self.contents:
       tree = etree.HTML(self.contents)
       url = tree.xpath("string(//div[@id='comic']/img/@src)")
- 
+
       downloader = Downloader(url)
       downloader.download(self.title, True)
 {% endhighlight %}
 
-Keep the URL of the website in a class attribute. Besides the constructor there are a bunch of methods here. 
+Keep the URL of the website in a class attribute. Besides the constructor there are a bunch of methods here.
 
-`set_last_comic_nr` is... well self-explanatory. Why do we need it? Because we plan on allowing the user to specify the number of the comic and also generate a random number in a specific range. Not the best solution to create a `Downloader` object inside the method, but it works for this short spider. 
+`set_last_comic_nr` is... well self-explanatory. Why do we need it? Because we plan on allowing the user to specify the number of the comic and also generate a random number in a specific range. Not the best solution to create a `Downloader` object inside the method, but it works for this short spider.
 
-After you get the contents, you need to parse them. Two solutions (might be more, but the most mainstream) are xpaths or regular expressions. If you go to the home page of [xkcd.com](http://xkcd.com) then below the image you will see a permanent link for this comic and it has the `id` we are looking for - the id of the most recent comic. Using the inspector we can check that this part of HTML is not wrapped into a tag, the text is placed between `<br>`s after an `ul`. That's definitely not a well-formed XML mark-up. 
+After you get the contents, you need to parse them. Two solutions (might be more, but the most mainstream) are xpaths or regular expressions. If you go to the home page of [xkcd.com](http://xkcd.com) then below the image you will see a permanent link for this comic and it has the `id` we are looking for - the id of the most recent comic. Using the inspector we can check that this part of HTML is not wrapped into a tag, the text is placed between `<br>`s after an `ul`. That's definitely not a well-formed XML mark-up.
 
-Even in this case it is possible to get the data with the following xpath - `//div[@id='middleContainer']/text()[preceding-sibling::br][1]`. That will return the following string - 'Permanent link to this comic: http://xkcd.com/1203/', which again should be parsed with regular expressions. 
+Even in this case it is possible to get the data with the following xpath - `//div[@id='middleContainer']/text()[preceding-sibling::br][1]`. That will return the following string - 'Permanent link to this comic: http://xkcd.com/1203/', which again should be parsed with regular expressions.
 
 I've taken a shortcut. My regexp searches for one or more digits after the string `http://xkcd.com/` through the whole DOM and groups those digits. Regular expressions are slow, in my case it was necessary to build a whole automata out of the contents, therefore you need to avoid them as often as possible.
 
-The other 3 methods are already using xpaths to search for the title, caption and path to the image through the contents of the page. The method `get_comic()` also instantiates a `Downloader` object and downloads the image. 
+The other 3 methods are already using xpaths to search for the title, caption and path to the image through the contents of the page. The method `get_comic()` also instantiates a `Downloader` object and downloads the image.
 
-The xpaths are fairly simple, but anyway let's examine of them. How about the `string(//div[@id='comic']/img/@src)`? English translation is the following - 
+The xpaths are fairly simple, but anyway let's examine of them. How about the `string(//div[@id='comic']/img/@src)`? English translation is the following -
 
 * search through the DOM for a div with an `id` that equals 'comic'
 * inside that node search for an `img` tag
@@ -151,7 +154,7 @@ class xkcdParser():
     self.get_title()
     self.get_caption()
     self.get_comic()
- 
+
   def get_comic_by_id(self, comic_nr):
     if not self.last_comic_nr:
       self.set_last_comic_nr()

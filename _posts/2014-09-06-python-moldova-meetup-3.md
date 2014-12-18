@@ -2,6 +2,9 @@
 layout: post
 title: "Python Moldova Meetup #3"
 date:   2014-09-08
+tags:
+  - social
+  - python
 ---
 
 Quite recently we organized our third Python Moldova Meetup. We also have updated the official Python wiki page and added [Python Moldova](https://wiki.python.org/moin/LocalUserGroups#Moldova) to the list. Meanwhile [Python Moldova Community](https://www.facebook.com/groups/pymoldova/) exists over a year and counts 154 members at the moment. Though the number of members vaguely defines the Python involvement rate in Moldova.

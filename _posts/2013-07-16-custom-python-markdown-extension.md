@@ -2,6 +2,9 @@
 layout: post
 title:  "Custom Python Markdown Extension"
 date:   2013-07-16
+tags:
+  - code
+  - python
 ---
 
 [Markdown](http://daringfireball.net/projects/markdown/) is awesome. It's a pleasure to use it and it's a pleasure to extend the Python Markdown module to fit your needs. Along with a bunch of official extensions, the module contains a nice [API](http://pythonhosted.org/Markdown/extensions/api.html) for writing your own extensions.
@@ -16,7 +19,7 @@ Right now I am writing in Markdown. When I want to insert an image I am doing th
 * write a markdown extension that will fix your links
 
 At this moment I would choose the first solution. But I implemented the second one, so I want to share some basic knowledge.
- 
+
 ### My setup
 
 I use [Flask-FlatPages](http://pythonhosted.org/Flask-FlatPages/) for rendering articles. Internally Python `markdown` module is used, and that means that you build your own extension easily.
@@ -39,7 +42,7 @@ def makeExtension(configs=[]):
 
 This function also accepts a list of configs. It is useful for us, since we want to get a base URL or a media URL which we will prepend to the image source links.
 
-There are different flavors of processors: **pre**processor (before code is sent to Markdown core), **tree**processor (being an [ElementTree](http://effbot.org/zone/element-index.htm) object), **post**processor (you got your output string already). For my needs I have decided that an ElementTree is a good way to easily extract `<img>` tags and insert the changed `src`. 
+There are different flavors of processors: **pre**processor (before code is sent to Markdown core), **tree**processor (being an [ElementTree](http://effbot.org/zone/element-index.htm) object), **post**processor (you got your output string already). For my needs I have decided that an ElementTree is a good way to easily extract `<img>` tags and insert the changed `src`.
 
 {% highlight python %}
 class AbsoluteImagesTreeprocessor(Treeprocessor):

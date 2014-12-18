@@ -2,9 +2,12 @@
 layout: post
 title:  "OMG! git reset --hard"
 date:   2013-08-28
+tags:
+  - code
+  - git
 ---
 
-I bet you know that jaw-dropping command `git reset --hard <commit-hash>`. Remember that first time you lost all that code? No? Well, good for you you didn't. 
+I bet you know that jaw-dropping command `git reset --hard <commit-hash>`. Remember that first time you lost all that code? No? Well, good for you you didn't.
 
 Fair enough the command is considered potentially dangerous. I have even seen blogposts about git reseting that make it hard to detect the command in-need (even if the user came for a full delete/erase/destroy this commit and the data it contains). The authors add lots of explanations around, so you need to read first and then type the **correct** command. No copy-paste, no tl;dr allowed.
 
@@ -50,7 +53,7 @@ Worse then reseting to a commit in the past, it is reseting the HEAD - `git rese
 
 ### Lost unstagged area
 
-The horror is here! At this point you have made some changes to your files, never `git add`ed them, and then the magic happen and wiped away all that. Must be a crisis in your life, you are doomed, life doesn't make sense any more... 
+The horror is here! At this point you have made some changes to your files, never `git add`ed them, and then the magic happen and wiped away all that. Must be a crisis in your life, you are doomed, life doesn't make sense any more...
 
 ![The Scream]({{ site.baseurl }}/assets/img/git-reset/scream.jpg)
 
@@ -58,7 +61,7 @@ Maybe you are lucky and you can find the light at the end of tunnel. Check that:
 
 * maybe Ctrl+Z?
 * see if your smart IDE has any internal version control system, personally I use PyCharm and it is very easy to view and recover from history. Protect yourself, use an IDE ;)
-* are the changes recorded anywhere else? For instance if your project is located in Dropbox (I know that's stupid if your have version control, but who knows), then you can see previous versions on Dropbox website and restore to any version you want. A new version is recorded on a new save. Don't leave it for tomorrow, because only the last 30-days versions are stored in the cloud. 
+* are the changes recorded anywhere else? For instance if your project is located in Dropbox (I know that's stupid if your have version control, but who knows), then you can see previous versions on Dropbox website and restore to any version you want. A new version is recorded on a new save. Don't leave it for tomorrow, because only the last 30-days versions are stored in the cloud.
 
 
 If you have some other ideas on code recovery, feel free to share :)

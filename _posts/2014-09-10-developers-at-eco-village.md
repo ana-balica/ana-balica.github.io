@@ -2,6 +2,8 @@
 layout: post
 title: "Developers at Eco Village"
 date:   2014-09-21
+tags:
+  - social
 ---
 
 [Eco Village](http://eco-village.md/) supports the idea that sustainable lifestyle can be revived in rural area of Moldova with the effort of the community. It's also an NGO and a great bunch of people.
