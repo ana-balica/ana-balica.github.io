@@ -62,7 +62,7 @@
     margin: 0 0 $spacing-m;
   }
 
-  ul, 
+  ul,
   ol {
     margin: $spacing-m 0;
     line-height: 1.6;
@@ -120,21 +120,21 @@
   }
 }
 
-#prev { 
-  left: 40px; 
+#prev {
+  left: 40px;
   @media (max-width: 942px) {
-    float: left; 
+    float: left;
   }
 }
 
-#next { 
-  right: 40px; 
+#next {
+  right: 40px;
   @media (max-width: 942px) {
-    float: right; 
+    float: right;
   }
 }
 
-#prev:active, 
+#prev:active,
 #next:active {
   border-color: $main-color;
 }
@@ -142,7 +142,7 @@
 .nav-title {
   display: none;
   @media (max-width: 942px) {
-    display: inline; 
+    display: inline;
   }
 }
 
@@ -159,4 +159,16 @@
 #prev:hover .nav-title,
 #next:hover .nav-title {
   display: inline;
+}
+
+// Post tags
+
+.post-tags span {
+  font-size: 65%;
+  font-family: $font-family;
+  border: 1px solid $border-color;
+  padding: $spacing-xs;
+  line-height: 1;
+  color: #333;
+  margin-right: $spacing-xs;
 }
