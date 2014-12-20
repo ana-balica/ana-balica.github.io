@@ -98,6 +98,11 @@
     height: 100%;
   }
 
+  figcaption {
+    font-style: italic;
+    font-size: $font-size-s;
+  }
+
 
 } // end #single-wrap
 
