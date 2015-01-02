@@ -1,0 +1,60 @@
+.tag-container {
+  h1 {
+    font-size: 180%;
+    line-height: 135%;
+    font-family: $font-family;
+    text-align: center;
+    margin: 0 0 $spacing-m;
+  }
+
+  .tag-box {
+    display: inline-block;
+
+    li {
+      float: left;
+      font-size: $font-size-s;
+      line-height: 2em;
+
+      &:before {
+        content: none;
+      }
+    }
+
+    a {
+      padding: 3px 7px;
+      margin: 2px;
+      border: 0.1em solid $text-color;
+      border-radius: 4px;
+
+      span {
+        font-size: $font-size-xs;
+        vertical-align: super;
+        color: $text-color;
+      }
+    }
+  }
+
+  .post-list {
+    li {
+      line-height: 1.5em;
+
+      &:before {
+        content: none;
+      }
+
+      a {
+        color: $text-color;
+
+        &:hover {
+          color: $highlight-color;
+        }
+
+        span.entry-date {
+          float: right;
+          text-transform: uppercase;
+          font-size: $font-size-s;
+        }
+      }
+    }
+  }
+}
