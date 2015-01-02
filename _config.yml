@@ -4,14 +4,14 @@ name: "Ana Balica"
 # Description of your content (will only be used on Google Search)
 description: "Blog about code, traveling and social involvement"
 
-# Your name. Will show in your footer + sidebar 
+# Your name. Will show in your footer + sidebar
 author: "Ana"
 
-url: "http://ana-balica.github.io"
+url: "http://0.0.0.0:4000"
 baseurl: ""
 
-# A short presentation of yourself. Will show in the sidebar, under your name. Best usage would be between 30 to 50 words. 
-author-bio: "I'm a software developer. This blog is about my adventures with code, 
+# A short presentation of yourself. Will show in the sidebar, under your name. Best usage would be between 30 to 50 words.
+author-bio: "I'm a software developer. This blog is about my adventures with code,
 travel experiences and relevant life events. I like Python, books and cats."
 
 # Google Analytics (you may want to changes these with yours or even delete :)
