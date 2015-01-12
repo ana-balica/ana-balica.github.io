@@ -98,6 +98,12 @@
     height: 100%;
   }
 
+  img.center {
+    width: initial;
+    @media (max-width: 642px) {
+      width: 100% !important;
+    }
+  }
   figcaption {
     font-style: italic;
     font-size: $font-size-s;

@@ -21,7 +21,7 @@ Now I find myself in the position of the reviewer and I see tons of
 mistakes.
 
 <img src="{{ site.baseurl }}/assets/img/contributing/noobs_everywhere.jpg"
-alt="Noobs everywhere" style="width: initial;" class="center">
+alt="Noobs everywhere" class="center">
 
 But it's OK. I was a noob quite recently and for some projects I am still holding
 on to my noob award. Everybody passed through the stage of first contribution.
@@ -44,7 +44,7 @@ and give short instructions. But... come on! Open source projects' documentation
 is not a hidden treasure chest, it's out there indexed by Google. Don't be lazy.
 
 <img src="http://imgs.xkcd.com/comics/rtfm.png" title="Life is too short for man pages,
-but occasionally much too short without them." alt="RTFM" style="width: initial;" class="center">
+but occasionally much too short without them." alt="RTFM" class="center">
 
 Spend at least an hour trying to find relevant developer documentation. It's
 perfectly OK to ask for help if the docs are missing, lacking or misleading. In
@@ -152,7 +152,7 @@ Keep it short. Keep it simple. And people will love it.
 ### Wrap-up
 
 It's OK to make mistakes, as long as we acknowledge and fix them. The rules we
-have imposed ourselves help keep the codebase readable and maintainable, hence
+have imposed on ourselves help keep the codebase readable and maintainable, hence
 ensure the longevity and popularity of the project. Comply to this set of rules
 and, boy, you're gonna become a pleasant person
 to work with.
