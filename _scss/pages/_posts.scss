@@ -104,6 +104,11 @@
       width: 100% !important;
     }
   }
+
+  figure {
+    margin-bottom: $spacing-s;
+  }
+
   figcaption {
     font-style: italic;
     font-size: $font-size-s;
