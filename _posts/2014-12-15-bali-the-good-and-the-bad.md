@@ -161,4 +161,4 @@ Start with lying on the beach with a good book and get a gorgeous tan. Catch the
 
 ### Goodbye
 
-One last piece of advice: **Live in Bali once, but leave it before it makes you soft.** And that's what we did. That's it folks!
+One last piece of advice: **Live in Bali once, but leave it before it makes you soft.** And that's what we did.
