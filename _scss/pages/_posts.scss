@@ -185,8 +185,12 @@
   border: 1px solid $border-color;
   padding: $spacing-xs;
   line-height: 1;
-  color: #333;
+  color: $text-color;
   margin-right: $spacing-xs;
+  &:hover {
+    background: $highlight-color;
+    color: $bg-color;
+  }
 }
 
 .center {
