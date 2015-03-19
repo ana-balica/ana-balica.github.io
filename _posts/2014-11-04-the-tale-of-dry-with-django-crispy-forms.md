@@ -327,3 +327,8 @@ P.S. In case you are still in doubt about the provided solution, here is what
 [Daniel Greenfeld](http://pydanny.com/) says: "As one of the leads of
 django-crispy-forms, I approve this blog post. :-)"
 
+-----
+
+See [The tale of DRY with django-crispy-forms | Part II]({{ site.baseurl }}/2015/03/18/the-tale-of-dry-with-django-crispy-forms-part-2/)
+for a better solution, if you wanna to go an extra mile.
+
