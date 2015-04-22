@@ -1,0 +1,115 @@
+
+
+
+
+
+
+Independent Code Addicts                                       A. Balica
+Potato Request for Comments: 8065                          22 April 2015
+Category: Informational
+
+
+               Ana as Fulltime Django Developer at Potato
+
+Status of this Memo
+
+   This memo provides information for the Potato HR department and
+   everyone else at Potato who might be interested. It does not specify
+   a standard of any kind. Distribution of this memo is unlimited.
+
+Copyright Notice
+
+   Copyright (C) Ana Balica (2015).  All Rights Reserved.
+
+Abstract
+
+   This document describes Ana's interest and rationale to work fulltime
+   as Django Developer at Potato London office, UK. It also includes a
+   rough list of competences and skills.
+
+1. What means PRFC 8065
+
+   PRFC stands for "Potato Request For Comments". The memo number is
+   not accidental as well. It is a concatenation of number 80, which is
+   the ASCII decimal representation of "P" (Potato), and number 65,
+   which is the ASCII decimal representation of "A" (Ana).
+
+2. Rationale
+
+   Work, along with hobbies and social interaction, is a source of
+   satisfaction in every human life. Being roughly 1/3 of the happiness
+   pool, it is important to choose a job carefully. Consequently, after
+   a small research, Potato has an extreme appeal to Ana.
+
+   The quintessence of several factors make it a perfect job:
+
+      choice of the development stack
+
+      open source friendliness, represented in the form of an active
+      GitHub account and usage of open source tools
+
+      variety of interesting and experimental projects
+
+      support of technical events, conferences and charity causes
+
+      fun environment filled with like-minded people
+
+
+Balica                       Informational                      [Page 1]
+
+PRFC 8065                                                  22 April 2015
+
+
+3. Bragging about skills and competences
+
+   Ana is the person with the right attitude towards work and people.
+   She has the ability to integrate easily in new teams due to her
+   extensive experience with NGOs and various international developer
+   teams.
+
+   Moreover the listed requirements match her expertise and fields of
+   interest. She has a solid background in Python and 3 years of work
+   experience with Django.
+
+   Ana's strong set of skills include understanding of Python and
+   Django internals, best practices, debugging techniques, unit testing
+   and functional testing with Django, plethora of experience with open
+   source contributing, well written and documented code.
+
+   Ana is an open source enthusiast. She completed successfully 2 Google
+   Summer of Code programs as a student and this year will be mentoring
+   on the behalf of Systers organization. Also catch her talk at the
+   upcoming DjangoCon in Cardiff, as she will be speaking about mixins.
+
+4. Find out more
+
+   If this PRFC got you interested, you can always find out more
+   information about Ana simply by googling. To spare the hard work,
+   here are some pointers:
+
+      curriculum vitae <http://ana-balica.github.io/cv.pdf> - containing
+      probably more than you would like to know
+
+      blog <http://ana-balica.github.io>
+
+      GitHub account <https://github.com/ana-balica/>
+
+      Bitbucket account <https://bitbucket.org/ana-balica>
+
+
+5. Author's Address
+
+   Ana Balica
+   Moldova, Chisinau
+   Doina 88/1, MD 2059
+
+   EMail: ana.balica@gmail.com
+
+
+
+
+
+
+
+Balica                       Informational                      [Page 2]
+
