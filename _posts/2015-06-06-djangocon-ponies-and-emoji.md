@@ -36,5 +36,5 @@ with the rest of the world.
 
 DjangoCon did everything right. And it's pretty hard to get everything right
 when you have 300+ attendees, volunteer-driven team (actually the most pony-awesome team:
-Vincent, Baptiste, David, Daniele, Ola, Jason) and
+Vincent, Baptiste, David, Daniele, Ola, Jason, Geraint) and
 [One Direction](https://www.youtube.com/watch?v=QJO3ROT-A4E) invasion.
