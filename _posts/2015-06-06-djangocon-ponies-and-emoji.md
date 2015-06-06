@@ -14,7 +14,7 @@ it instantly differentiated itself from other conferences.
 Organized this year in Cardiff, UK, DjangoCon
 set its goals high by planning 3 days of talks, 2 days of sprints and providing
 inclusive environment for everybody. It encouraged first time speakers to come
-and share their thoughts and adventures in Djangoland (c) [@bmispelion](https://twitter.com/bmispelon) by
+and share their thoughts and adventures in Djangoland (&copy; [@bmispelion](https://twitter.com/bmispelon)) by
 launching a speaker mentor program, included a live text transcription throughout the whole
 conference, offered a free crèche (and we had some lovely young djangonaughts),
 organized a free open day, which students of Cardiff University benefited from.
