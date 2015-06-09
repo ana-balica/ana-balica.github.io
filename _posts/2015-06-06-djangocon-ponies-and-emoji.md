@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "DjangoCon, ponies and emoji"
-date:   2016-06-06
+date:   2015-06-06
 tags:
   - social
   - django
