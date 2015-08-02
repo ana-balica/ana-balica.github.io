@@ -27,6 +27,11 @@ Abstract
    as Django Developer at Potato London office, UK. It also includes a
    rough list of competences and skills.
 
+Outcome
+
+   If you are curious, I got the job and now I am a happy backend
+   developer at Potato London.
+
 1. What means PRFC 8065
 
    PRFC stands for "Potato Request For Comments". The memo number is
