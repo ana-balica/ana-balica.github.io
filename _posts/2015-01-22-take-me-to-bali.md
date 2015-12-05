@@ -75,7 +75,7 @@ For the most part Indonesia is a Muslim country. But Bali is different. Bali pra
 
 {% include figure.html src="/assets/img/bali/offering.jpg" caption="Offerings prepared 3 times a day" %}
 
-That said, Bali is overwhelmed with temples. To be honest, most of the them look the same with slight differences. There are important temples, then big touristic temples and everyday temples. Important ones are of some big significance for local people, but on the exterior they have nothing special. Puka Besakih is the largest template of Bali and was my one and only saint place, which I visited. And then come the everyday temples - the ones built by the house. Yes, more or less every house has a temple of its own.
+That said, Bali is overwhelmed with temples. To be honest, most of the them look the same with slight differences. There are important temples, then big touristic temples and everyday temples. Important ones are of some big significance for local people, but on the exterior they have nothing special. Pura Besakih is the largest template of Bali and was my one and only saint place, which I visited. And then come the everyday temples - the ones built by the house. Yes, more or less every house has a temple of its own.
 
 {% include figure.html src="/assets/img/bali/pura-besakih.jpg" caption="Puka Besakih - largest temple on Bali" %}
 
