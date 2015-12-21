@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mistune lexers - we are going deeper"
+title: "Mistune custom lexers - we are going deeper"
 date:   2015-12-21
 tags:
   - code
