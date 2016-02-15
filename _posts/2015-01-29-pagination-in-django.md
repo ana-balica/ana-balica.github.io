@@ -29,6 +29,7 @@ from library.models import Book
 class BookListView(ListView):
     model = Book
     paginate_by = 10
+    template_name = 'book_list.html'
 
 {% endhighlight %}
 
