@@ -13,7 +13,7 @@ baseurl: ""
 # A short presentation of yourself. Will show in the sidebar, under your name. Best usage would be between 30 to 50 words.
 author-bio: "I'm a software developer. I work at <a href='https://p.ota.to' target='_blank'>Potato London</a>.
 This blog is about my adventures with code, travel experiences and relevant life events. I like Python, books and cats.\n
-Here is a list of <a href='/mentions.html'>I've been mentioned here</a>."
+Occasionally I give <a href='/talks.html'>talks</a>."
 
 # Google Analytics (you may want to changes these with yours or even delete :)
 
