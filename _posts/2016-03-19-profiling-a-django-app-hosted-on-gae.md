@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Django, App Engine and Appstats"
+title: "Profiling a Django App hosted on Google App Engine"
 date:   2016-03-19
 tags:
   - app engine
@@ -16,7 +16,7 @@ you are writing an app that'll work with a SQL database, except you don't.
 If you go down that road, how do you figure out why a piece of Django code is slow?
 This brings us to Appstats.
 
-### What is it
+### What is Appstats
 
 [Appstats](https://cloud.google.com/appengine/docs/python/tools/appstats) is a
 profiling library that comes together with the App Engine SDK. Its
