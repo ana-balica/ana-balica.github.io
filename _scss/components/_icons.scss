@@ -11,7 +11,15 @@
   font-style: normal;
 }
 
-.icon-mail, .icon-github, .icon-twitter, .icon-linkedin, .icon-umbrella {
+.icon-mail,
+.icon-github,
+.icon-twitter,
+.icon-linkedin,
+.icon-umbrella,
+.icon-tv,
+.icon-newspaper,
+.icon-play,
+.icon-film {
   font-family: 'icomoon';
   speak: none;
   font-style: normal;
@@ -40,4 +48,16 @@ nav ul li:before {
 }
 .icon-umbrella:before {
   content: "\e604";
+}
+.icon-tv:before {
+  content: "\e95b";
+}
+.icon-newspaper:before {
+  content: "\e904"
+}
+.icon-play:before {
+  content: "\e912"
+}
+.icon-film:before {
+  content: "\e913"
 }
