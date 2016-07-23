@@ -43,16 +43,16 @@ I've spend one hour trying to find a picture of the graffiti: nothing on my old 
 
 ![Doodled mug]({{ site.baseurl }}/assets/img/presents/nadya_mug.jpg)
 
-Rough estimate of consumed time: 3 hours
-Resulting effect: I think she liked it
-Gift specimen: boring overall, but with a nice very personal touch
+*Rough estimate of consumed time:* 3 hours<br>
+*Resulting effect:* I think she liked it<br>
+*Gift specimen:* boring overall, but with a nice very personal touch
 
 Mugs are a boring gift (I've just mentioned the Darth Vader mug at the beginning of this post). But… but this one is cute, because I covered it all in silly childish doodles. Used my acrylic paint. For a long lasting effect you can cover it in layer or glaze.
 
 ### Blossom in winter
 
-*Rough estimate of consumed time:* half a day
-*Resulting effect:* getting someone out of depression is a pretty good outcome
+*Rough estimate of consumed time:* half a day<br>
+*Resulting effect:* getting someone out of depression is a pretty good outcome<br>
 *Gift specimen:* romantic and almost environmentally friendly
 
 It was one of those sad, cold, snowless winters. My friend used to live not far from the forest slash park. The bare trees in this time of the year look very gloomy and unwelcoming. I dragged my friend into the forest (no, I'm not a rapist), even though he kept on saying that's going to make things worse and I kept on saying it's going to make things better.
