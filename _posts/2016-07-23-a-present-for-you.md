@@ -47,7 +47,7 @@ I've spend one hour trying to find a picture of the graffiti: nothing on my old 
 *Resulting effect:* I think she liked it<br>
 *Gift specimen:* boring overall, but with a nice very personal touch
 
-Mugs are a boring gift (I've just mentioned the Darth Vader mug at the beginning of this post). But… but this one is cute, because I covered it all in silly childish doodles. Used my acrylic paint. For a long lasting effect you can cover it in layer or glaze.
+Mugs are a boring gift (I've just mentioned the Darth Vader mug at the beginning of this post). But… but this one is cute, because I covered it all in silly childish doodles. Used my acrylic paint. For a long lasting effect you can cover it in a layer of glaze.
 
 ### Blossom in winter
 
@@ -57,7 +57,7 @@ Mugs are a boring gift (I've just mentioned the Darth Vader mug at the beginning
 
 It was one of those sad, cold, snowless winters. My friend used to live not far from the forest slash park. The bare trees in this time of the year look very gloomy and unwelcoming. I dragged my friend into the forest (no, I'm not a rapist), even though he kept on saying that's going to make things worse and I kept on saying it's going to make things better.
 
-It made things better because I decorated a tree by the lake with pink [flower-shaped post it notes](http://ancdn-k-o.shopletcdn.com/productimages/500x500/MMMR333FLW_3_1.JPG). Few hours before meeting my friend I hooked the tiny pieces of paper by strings to the branches. Also scattered a few of "flowers" forming a path to the tree. It looked like a little island of spring (⌒▽⌒)☆
+It made things better because I decorated a tree by the lake with pink [flower-shaped post it notes](http://ancdn-k-o.shopletcdn.com/productimages/500x500/MMMR333FLW_3_1.JPG). Few hours before meeting my friend I hooked the tiny pieces of paper by strings to the branches. Also scattered a few "flowers" forming a path to the tree. It looked like a little island of spring (⌒▽⌒)☆
 
 A wave of good emotions. So good I forgot to take any pictures. Also no smartphones era.
 
@@ -77,7 +77,7 @@ Connecting with my creative self again. On a A4 ~200gsm sheet of paper with anti
 *Resulting effect:* big smiles<br>
 *Gift specimen:* all about how much I care about you mom
 
-When I was a kid and didn't have money to buy mom flowers, perfume or fancy creams, so I'd make cards (handmade crazy looking "Happy Birthday Mom" cards). One year I wanted to make something different, so I used my pack of post-it notes and stuck them all over the flat with various inscriptions on them, things like "You cook the most delicious meals", "Thank you for taking care of us", "You look beautiful every day". My mom mentioned a few spelling mistakes I made, but I'm sure she loved it (≧◡≦)
+When I was a kid and didn't have money to buy mom flowers, perfume or fancy creams, I'd make cards (handmade crazy looking "Happy Birthday Mom" cards). One year I wanted to make something different, so I used my pack of post-it notes and stuck them all over the flat with various inscriptions on them, things like "You cook the most delicious meals", "Thank you for taking care of us", "You look beautiful every day". My mom mentioned a few spelling mistakes I made, but I'm sure she loved it (≧◡≦)
 
 ### DIY robot
 
