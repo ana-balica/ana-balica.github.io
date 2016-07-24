@@ -24,7 +24,6 @@ ga_tracking_id: UA-52365795-1
 
 markdown: kramdown
 permalink: pretty
-highlighter: pygments
 
 paginate: 10
 paginate_path: "/page/:num"
