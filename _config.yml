@@ -11,7 +11,7 @@ url: "http://ana-balica.github.io"
 baseurl: ""
 
 # A short presentation of yourself. Will show in the sidebar, under your name. Best usage would be between 30 to 50 words.
-author-bio: "I'm a software developer. I work at <a href='https://p.ota.to' target='_blank'>Potato London</a>.
+author-bio: "I'm a software developer. I work at <a href='https://p.ota.to' target='_blank'>Potato</a>.
 This blog is about my adventures with code, travel experiences and relevant life events. I like Python, books and cats.\n
 Occasionally I give <a href='/talks.html'>talks</a>."
 
