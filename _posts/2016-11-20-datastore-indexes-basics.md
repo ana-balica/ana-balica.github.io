@@ -104,7 +104,7 @@ Once pushed to production, App Engine will build the new index, but **will also 
 
 Once we're sure we don't need any of the removed indexes, let's run `appcfg.py vacuum_indexes`. We should be careful what we [vacuum clean]((https://cloud.google.com/appengine/docs/python/tools/appcfg-arguments#vacuum_indexes)), since a missing index will result in a 500 for our users.
 
-<div class="text-break">&#9752;</div>
+-----
 
 There is a lot more to say about indexes and various intricacies related to them. Now that you know the basics, we can delve into more details in my next upcoming post.
 
