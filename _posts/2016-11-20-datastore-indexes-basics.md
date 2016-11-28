@@ -106,5 +106,5 @@ Once we're sure we don't need any of the removed indexes, let's run `appcfg.py v
 
 -----
 
-There is a lot more to say about indexes and various intricacies related to them. Now that you know the basics, we can delve into more details in my next upcoming post.
+There is a lot more to say about indexes and various intricacies related to them. Now that you know the basics, we can delve into more details in my next post [Intricacies and optimization of Datastore indexes]({{ site.baseurl }}/2016/11/28/intricacies-and-optimization-of-datastore-indexes/).
 
