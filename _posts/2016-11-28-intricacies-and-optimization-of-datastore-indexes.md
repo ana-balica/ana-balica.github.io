@@ -142,7 +142,7 @@ book = Book.objects.create(
 {% endhighlight %}
 
 
-Datastore will create 16 entries (`|keywords| * |ratings| * |title|`) for this index. The larger the number of items in an iterable property, the more rows will be created in the index table. This is what is called *exploding indexes*.
+Datastore will create 15 entries (`|keywords| * |ratings| * |title|`) for this index. The larger the number of items in an iterable property, the more rows will be created in the index table. This is what is called *exploding indexes*.
 
 To ameliorate such a hungry index, we can split it up into 2 indexes (same zigzag merge join algorithm applied in case of a query that filters and sorts on those 3 properties):
 
@@ -158,7 +158,7 @@ To ameliorate such a hungry index, we can split it up into 2 indexes (same zigza
   - name: ratings
 {% endhighlight %}
 
-For this example Datastore will create 8 entries (`|keywords| * |title| + |ratings| * |title|`) in contrast with 16 entries in the index table. Don't forget to vacuum clean indexes, once you update them.
+For this example Datastore will create 8 entries (`|keywords| * |title| + |ratings| * |title|`) in contrast with 15 entries in the index table. Don't forget to vacuum clean indexes, once you update them.
 
 Unexploding indexes might not always be a necessity, since (again) it all depends on the shape of your data. You might be fine with a single index that contains 2 iterable properties if one of those is a property that always has only one value. Maybe it was created with a thought about distant future, where more options can be added without the need to migrate all the data.
 
