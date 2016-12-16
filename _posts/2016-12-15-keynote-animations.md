@@ -55,7 +55,9 @@ Better solution: apply an animation called "Appear",
 found in the "Build In" tab of the Animate section.
 Click/tap and, voila, the image appears!
 
-<iframe src="https://www.youtube.com/embed/W3naF-73Olw" frameborder="0" allowfullscreen></iframe>
+<div class="video-wrapper">
+  <iframe src="https://www.youtube.com/embed/W3naF-73Olw" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ### Bullet points
 
@@ -64,7 +66,9 @@ long complex sentences to a few important key points.
 And if you want to make them appear in a special way, say one by one,
 Keynote has got your back.
 
-<iframe src="https://www.youtube.com/embed/vD5s2_5qVf8" frameborder="0" allowfullscreen></iframe>
+<div class="video-wrapper">
+  <iframe src="https://www.youtube.com/embed/vD5s2_5qVf8" frameborder="0" allowfullscreen></iframe>
+</div>
 
 Don't even think making 5 separate slides and placing on each plus-one bullet point.
 This easily gets out of sync when you decide to add or remove a bullet point
@@ -85,7 +89,9 @@ and then dive deep into certain segments.
 There are many ways to do that.
 In case of code I like to use highlighting.
 
-<iframe src="https://www.youtube.com/embed/8KwH_ZmM6Co" frameborder="0" allowfullscreen></iframe>
+<div class="video-wrapper">
+  <iframe src="https://www.youtube.com/embed/8KwH_ZmM6Co" frameborder="0" allowfullscreen></iframe>
+</div>
 
 Create a shape and give it enough opacity to make the text underneath eligible.
 Then apply an appropriate "Build In" animation to the shape -
@@ -106,7 +112,9 @@ I remember seeing the trick for the first time at DjangoCon Europe 2015 in Cardi
 in Ola's talk [Pushing the pony's boundaries](https://vimeo.com/channels/952478/134817269)
 and I really liked it.
 
-<iframe src="https://www.youtube.com/embed/fXgcwCpiBQI" frameborder="0" allowfullscreen></iframe>
+<div class="video-wrapper">
+  <iframe src="https://www.youtube.com/embed/fXgcwCpiBQI" frameborder="0" allowfullscreen></iframe>
+</div>
 
 "Opacity" animation can be found under the "Action" tab.
 Since I prefer to almost omit the transition of going transparent,
@@ -131,7 +139,9 @@ My problem with that is the UI that is showing only the last applied action.
 To be able to go to older layers of animation, you need to open "Build Order"
 and operate from there (that was so not obvious at the beginning).
 
-<iframe src="https://www.youtube.com/embed/-CFr_VluCjg" frameborder="0" allowfullscreen></iframe>
+<div class="video-wrapper">
+  <iframe src="https://www.youtube.com/embed/-CFr_VluCjg" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ### A process
 
@@ -140,7 +150,9 @@ It's like when they spend 5 pages to explain how an engine works,
 and you still don't get it.
 But once you see the animation, it suddenly becomes clear.
 
-<iframe src="https://www.youtube.com/embed/EQzfc7OnuMY" frameborder="0" allowfullscreen></iframe>
+<div class="video-wrapper">
+  <iframe src="https://www.youtube.com/embed/EQzfc7OnuMY" frameborder="0" allowfullscreen></iframe>
+</div>
 
 Here I explain visually how tests are run in parallel, simplified version taken from my
 [Testing in Django](https://www.youtube.com/watch?v=EHyKzPQFXzo)
