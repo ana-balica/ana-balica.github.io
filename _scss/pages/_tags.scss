@@ -44,6 +44,8 @@
 
       a {
         color: $text-color;
+        display: flex;
+        justify-content: space-between;
 
         &:hover {
           color: $highlight-color;
@@ -53,6 +55,11 @@
           float: right;
           text-transform: uppercase;
           font-size: $font-size-s;
+          flex-shrink: 0;
+        }
+
+        span.entry-title {
+          margin-right: 1em;
         }
       }
     }
