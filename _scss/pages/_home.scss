@@ -43,13 +43,13 @@
 
       .post-title {
         font-size: 180%;
-        line-height: 135%;
         font-family: $font-family;
         margin: 0 0 $spacing-xs;
         color: $text-color;
         line-height: 1em;
 
         a {
+          line-height: 135%;
           text-decoration: none;
           color: $text-color;
           font-weight: bold;
