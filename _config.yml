@@ -14,6 +14,8 @@ baseurl: ""
 author-bio: "I'm a software developer. I mostly do Python.
 This blog is about my adventures with code, travel experiences and relevant life events.
 
+<p>Here's what I'm doing <a href='/now/'>now</a>.</p>
+
 <p>Occasionally I give <a href='/talks/'>talks</a>.</p>
 
 <p><em>Please don't take my words for granted, because Internet is full of bad advice, and I might be part of it inadvertently.</em></p>"
