@@ -62,15 +62,6 @@
     margin: 0 0 $spacing-m;
   }
 
-  ul,
-  ol {
-    margin: $spacing-m 0;
-    line-height: 1.6;
-    li {
-      margin-bottom: $spacing-xs;
-    }
-  }
-
   blockquote {
     font-size: 150%;
     font-family: $font-family;
