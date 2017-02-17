@@ -1,4 +1,9 @@
 .tag-container {
+  ul {
+    list-style: none;
+    margin: 0;
+  }
+
   .tag-box {
     display: inline-block;
 
