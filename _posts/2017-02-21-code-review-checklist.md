@@ -8,7 +8,7 @@ tags:
 
 Writing code is hard, reviewing it, is equally hard. In my team every ticket is scanned by a second pair of eyes.
 
-Why? Half-assed work can make a company look bad, loose money, loose clients, generate stress and extra work, thus a good code review is a must before going live.
+Why? Half-assed work can make a company look bad, lose money, lose clients, generate stress and extra work, thus a good code review is a must before going live.
 
 Over the last couple of months, I've developed my own internal code review checklist. I use it both for reviewing for own finished code and my teammates code complete tickets. It's split up into 3 sections: code, automated testing and manual testing.
 
