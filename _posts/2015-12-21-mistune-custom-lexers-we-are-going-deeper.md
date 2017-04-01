@@ -11,7 +11,7 @@ tags:
 written in pure Python. And it has good documentation. At least so it seemed
 until I tried to write a custom lexer (hint: tests are a good source of inspiration).
 
-### Vocabulary
+## Vocabulary
 
 Even though this is a recipe for solving a specific problem, I'll start off with
 some basics and a definition list.
@@ -46,7 +46,7 @@ Add whatever specific rules and outputs you want. [The example from the docs](ht
 tag and an inline lexer that defines a regular expression capable of parsing
 `[[Page 2|Page 2]]`.
 
-### Scratching my itch
+## Scratching my itch
 
 I want to be able to refer to people by their twitter username and link to their
 twitter accounts when I'm writing in Markdown right on my blog (this is a theoretical
@@ -99,7 +99,7 @@ doesn't it work then?**
 
 ![Y U NO WORK]({{ site.baseurl }}/assets/img/mistune-lexers/yunowork.jpg)
 
-### Going deeper
+## Going deeper
 
 Surprise surprise! It doesn't even match my regular expression. To find out why I've
 pdb-ed a couple of times into the one-file mistune package and learned the
@@ -128,7 +128,7 @@ slice the string and try to render the token. `[` symbol is there, but `@` is no
 That's why the wiki link example works just fine and the username link example
 doesn't.
 
-### Another way
+## Another way
 
 This other way involves overriding the text pattern to take into consideration
 `@` symbol and tokenize the string per our wish. This is my ugly solution (code
@@ -181,7 +181,7 @@ which tells it look from the very beginning of the string. Also notice the lack
 of any custom renderer - I just decided to use the link renderer, which it yield
 the same result.
 
-### Fin
+## Fin
 
 Congratulations! You've made it to the end! Got a better solution? Share it with
 everybody or take a nap :)

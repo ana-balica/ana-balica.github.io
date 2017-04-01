@@ -8,7 +8,7 @@ tags:
 
 Bali is probably one of those beautiful and exotic places, that are actively advertised at your local travel agency. *Paradise on earth*, I think, they call it. Not without a reason, of course. It's this beautiful, haunting place, where you imagine yourself lying on the white-sand beaches, sipping coconut cocktails and watching the azure ocean. You know, like in movies.
 
-### Selamat Datang
+## Selamat Datang
 
 Welcome to Bali! You and the other 3 million curious tourists annually made it to the destination. Seriously, Bali has almost no off season. People come and go all the time. [According to the statistics, provided by Bali Government Tourism Office](http://www.disparda.baliprov.go.id/en/Statistics2), the island hosted on average 300,000 newcomers each month during 2014.
 
@@ -16,7 +16,7 @@ Welcome to Bali! You and the other 3 million curious tourists annually made it t
 
 Even though Indonesia has [18,307 islands](http://en.wikipedia.org/wiki/List_of_islands_of_Indonesia), Bali stays the top one attraction. So be prepared to meet crowds of people. To your attention, Visa on Arrival (VOA) costs 35 US dollars and don't forget to spare 20,000 IDR for the departure tax. Generally prices grow every year, so get informed before the trip.
 
-### Where to go
+## Where to go
 
 When I was hearing *Bali*, I always thought of just Bali. It never crossed my mind that the island is big enough to have a variety of touristic flavors. North is different from South. Center of the island is different from its outer parts. Since I have spent a month and a half in Indonesia, I got plenty of time to try 3 types of Bali life.
 
@@ -69,7 +69,7 @@ It's worth going to the north to do snorkeling and diving to the Menjangan Islan
 {% include figure.html src="/assets/img/bali/menjangan-island.jpg" caption="Beautiful Menjangan island" %}
 {% include figure.html src="/assets/img/bali/water.jpg" caption="On the way to Menjangan island" %}
 
-### Temples
+## Temples
 
 For the most part Indonesia is a Muslim country. But Bali is different. Bali practices Hinduism as religion. And you could feel it even with the soles of your feet. It is a big deal in the life of locals. They wake up in the morning and prepare the offerings for the God, light up a scent stick and repeat the process by the afternoon and evening. It doesn't seem like a burden to them, they feel happy and accomplished to perform the ritual daily.
 
@@ -82,7 +82,7 @@ That said, Bali is overwhelmed with temples. To be honest, most of the them look
 If you plan to visit more than one template, buy a sarong up front. Men and women are not allowed without one. Besides even if you get inside the template, you actually just walk around it, since visitors are not allowed in the prayer/meditation zone.
 
 
-### Nature
+## Nature
 
 Mesmerizing tropical nature is what left me speechless. During the trip good and bad stuff happened, but I always got reconciled somehow by the natural beauty of the island.
 
@@ -108,7 +108,7 @@ That being said, there ain't no sunshine without rain. Unfortunately ecology is 
 {% include figure.html src="/assets/img/bali/garbage1.jpg" caption="Garbage by the riverside" %}
 {% include figure.html src="/assets/img/bali/garbage2.jpg" caption="Kuta Beach during rain season" %}
 
-### Fruits
+## Fruits
 
 That smell can never be forgotten - durian. Druin is a fruit extremely liked by the Asian population. There is very little point in trying to describe the smell, but as they say it, whether you love or you hate it. I got the last one.
 
@@ -123,7 +123,7 @@ But the real treasure is Manggis. This fruit is not particularly rich in nutriti
 {% include figure.html src="/assets/img/bali/mangis.jpg" caption="Mangosteen (Manggis) - the Queen of Fruit" %}
 
 
-### Locals
+## Locals
 
 You walk by and every local person will greet with "Hi" or "Hello". Local greetings sound the same as English versions by the way. The hospitality of the place is felt everywhere as long as you behave. Once you crossed the line, bad things can happen. Don't forget that the police is corrupt, so no easy way to get out of a bad situation.
 
@@ -133,7 +133,7 @@ Balinese people are very friendly and smiley. They will always help you if you h
 
 Bargaining is more than welcome. Once the price was dropped by 70% and I didn't say a word. To me all the prices felt dummy afterwards, since it's rather hard to estimate the real value. Nevertheless white people will overpay in any case. You can't convince them to sell goods by the local real price. It just never happens.
 
-### Food
+## Food
 
 I felt in love with Balinese food. It's slightly spicy, averagely salty and delicious for my tastes. Bali has a lot of vegetarian and vegan dishes. Generally meat is more expensive, seafood is mainly available and vegetables and rice are everywhere. Most common dishes are mie goreng (fried noodles), nasi goreng (fried rice), nasi campur (rice with toppings like meat, veggies, souses), soto bakso (soup with meatballs), soto ayam (chicken soup). My all time favorite is the mie soto - chicken soup with noodles, prepared at a [small local dinner in Ubud](https://www.google.co.th/maps/place/8%C2%B031'05.1%22S+115%C2%B016'08.1%22E/@-8.5152122,115.2675073,16z/data=!4m2!3m1!1s0x2dd23d7102a8c64f:0x2d017f9076a37718?hl=en). I can fill my mouth all watery now just by the thought of mie soto.
 
@@ -145,20 +145,20 @@ As in most Asian countries food is everywhere, and particularly on the street. T
 
 Of course hygiene should be of concern and you would probably prefer a more "posh" place for dining. In reality there is one universal rule: if locals eat that food, it's safe for you too. To be mentioned, I have never had food poisoning while on Bali.
 
-### Transport and traffic
+## Transport and traffic
 
 Traffic is big and hectic. Few rules apply. For the most part just watch out! People drive bikes, all kinds of bikes. It's a like a big collection of cute Vespas, Scoopies and not so cute Honda Vario. It's easy and cheap to rent a bike, if you like extreme driving. Keep in mind that cars are not exactly respectful towards the bike drivers and traffic jams are awful.
 
 {% include figure.html src="/assets/img/bali/vespa.jpg" caption="Vespa bike" %}
 
 
-### Activities
+## Activities
 
 It won't be boring on Bali, trust me. Locals are offering plenty of activities.
 
 Start with lying on the beach with a good book and get a gorgeous tan. Catch the wave on a surfing board, fall, try again. Go trekking on the top of a volcano. Get a bicycle and visit some nearby villages, buy bakso for it's real price of 5,000 IDR. Soak in the greenish water of a hot spring. Don't forget about white water rafting in Ayung River - instructors make it an unbelievably fun experience. Take long walk to discover the blooming nature of Bali. Go to a cooking class and learn some secrets about Bali cuisine. Explore the templates if you feel attracted to the spiritual side of the island. Get fit by taking yoga or traditional dance classes or relax by having an oily Balinese massage. Go diving or snorkeling to special beautiful spots. Join a group of tourists to see the Legong and Kecak dance. I think there is a lot more to this. Once you are there, you will figure it out.
 
 
-### Goodbye
+## Goodbye
 
 One last piece of advice: **Live in Bali once, but leave it before it makes you soft.** And that's what we did.

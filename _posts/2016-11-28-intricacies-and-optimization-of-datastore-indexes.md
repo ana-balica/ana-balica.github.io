@@ -11,11 +11,11 @@ It's nice that development server is so kind to generate Datastore indexes for u
 
 This is a follow up post to [Datastore indexes basics]({{ site.baseurl }}/2016/11/20/datastore-indexes-basics/) that covers essentials, mentions the dependencies used and contains some base models that we will be using here.
 
-### Speed considerations
+## Speed considerations
 
 The reason why we want to optimize indexes is speed. Simply put the more simple and composite indexes an entity has, the slower it becomes to do writes. That's why Datastore imposes limits on the number and size of index entries ([200 composite indexes and 2 Mib maximum sum of the size of an entity's composite index entries](https://cloud.google.com/datastore/docs/concepts/limits)). It is possible by having a large number of properties on an entity/model or having a huge amount of composite indexes in `index.yaml` to exceed those limits though.
 
-### When order matters
+## When order matters
 
 Order in the **WHERE** clause *doesn't* matter. If you have multiple equality filters on different properties, then those 2 indexes are equivalent and one of them can be safely discarded. Going back to our example with a Book model. If we execute this query:
 
@@ -62,7 +62,7 @@ In general Datastore will try to create and insert indexes in alphabetical order
 That said, the **direction** of a property *makes* a difference, hence `order_by('published_date')` is not the same as `order_by('-published_date')` and 2 indexes should be created respectively.
 
 
-### Minimum vs perfect
+## Minimum vs perfect
 
 The index that we created above is a perfect index - the whole query is served by a single index. This allows the most efficient and fast querying. In contrast we could split the perfect index into 2 minimum indexes:
 
@@ -103,7 +103,7 @@ In this case we should resort to creating minimum indexes or a combination of mi
 
 Besides when resorting to minimum indexes, we should be aware of the shape of the data. Merging using the zigzag merge join algorithm comes with a cost. Poor performance is achieved when many entities match each scan in separation, but few entities match the query as a whole. App Engine has an excellent explanation on that in [Datastore Index Selection & Advanced Search](https://cloud.google.com/appengine/articles/indexselection) article.
 
-### Exploding indexes
+## Exploding indexes
 
 Iterable fields complicate things. Normally each row in the index table represents one entity in Datastore. Take this index `Index(Book, author, title, -published_date)`. If we have 10 books with those properties set, then Datastore will create 10 rows in the index table.
 
@@ -162,7 +162,7 @@ For this example Datastore will create 8 entries (`|keywords| * |title| + |ratin
 
 Unexploding indexes might not always be a necessity, since (again) it all depends on the shape of your data. You might be fine with a single index that contains 2 iterable properties if one of those is a property that always has only one value. Maybe it was created with a thought about distant future, where more options can be added without the need to migrate all the data.
 
-### Dead indexes
+## Dead indexes
 
 Large projects with a lot of models might suffer from dead-index weight. Adding indexes is easy, removing them - not so much. You never know if there's a hidden query somewhere that your search through the codebase didn't spot. So maybe we should just keep that index? Nope.
 

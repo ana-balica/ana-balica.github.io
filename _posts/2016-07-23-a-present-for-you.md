@@ -12,7 +12,7 @@ Yes, often I'll resort to a typical birthday gift, that doesn't require any of m
 
 But there's this whole other level of coming up with soulful presents that require a lot more effort than just clicking "Buy now" on Amazon (don't forget to enable 1-click Ordering to skyrocket your purchasing power or even get an <strike>Echo</strike> Alexa). So here's the list of presents that I've given to other people and wish I could receive myself.
 
-### Fly high
+## Fly high
 
 ![Flying Lesson]({{ site.baseurl }}/assets/img/presents/fly_high.jpg)
 
@@ -25,7 +25,7 @@ This one is actually a developed-world present, but it has a nice touch to it. S
 
 I bought the voucher online. It was too late to order the *special* birthday pack that comes by post, so I decided to just print the page and make a cute origami shirt + mandatory birthday card with cats, which has handwritten inside "Open the shirt".
 
-### Jojo in the stars
+## Jojo in the stars
 
 *Rough estimate of consumed time:* 3 days<br>
 *Resulting effect:* ecstatic rainbows spurring out of the mouth<br>
@@ -39,7 +39,7 @@ The logistics were simple: one white and a couple of black spay paint cans. Grab
 
 I've spend one hour trying to find a picture of the graffiti: nothing on my old photosharing account, nothing on google, nothing on any of my old blogs T_T
 
-### Doodled mug
+## Doodled mug
 
 ![Doodled mug]({{ site.baseurl }}/assets/img/presents/nadya_mug.jpg)
 
@@ -49,7 +49,7 @@ I've spend one hour trying to find a picture of the graffiti: nothing on my old 
 
 Mugs are a boring gift (I've just mentioned the Darth Vader mug at the beginning of this post). But… but this one is cute, because I covered it all in silly childish doodles. Used my acrylic paint. For a long lasting effect you can cover it in a layer of glaze.
 
-### Blossom in winter
+## Blossom in winter
 
 *Rough estimate of consumed time:* half a day<br>
 *Resulting effect:* getting someone out of depression is a pretty good outcome<br>
@@ -61,7 +61,7 @@ It made things better because I decorated a tree by the lake with pink [flower-s
 
 A wave of good emotions. So good I forgot to take any pictures. Also no smartphones era.
 
-### I give you my hand
+## I give you my hand
 
 ![I give you my hand]({{ site.baseurl }}/assets/img/presents/hand.jpg)
 
@@ -71,7 +71,7 @@ A wave of good emotions. So good I forgot to take any pictures. Also no smartpho
 
 Connecting with my creative self again. On a A4 ~200gsm sheet of paper with antique finish I outlined the shape of my hand with a pencil. Cut the hand form. One side of it is feminine: soft shapes flowing in chaos. The other side is boyish: funky, hip with video games and robots. Nothing too special, but the execution was good and I know my friend kept it for a really long time (might still have it, but we don't keep in touch).
 
-### Post-it everywhere
+## Post-it everywhere
 
 *Rough estimate of consumed time:* 2 hours<br>
 *Resulting effect:* big smiles<br>
@@ -79,7 +79,7 @@ Connecting with my creative self again. On a A4 ~200gsm sheet of paper with anti
 
 When I was a kid and didn't have money to buy mom flowers, perfume or fancy creams, I'd make cards (handmade crazy looking "Happy Birthday Mom" cards). One year I wanted to make something different, so I used my pack of post-it notes and stuck them all over the flat with various inscriptions on them, things like "You cook the most delicious meals", "Thank you for taking care of us", "You look beautiful every day". My mom mentioned a few spelling mistakes I made, but I'm sure she loved it (≧◡≦)
 
-### DIY robot
+## DIY robot
 
 ![Pibot]({{ site.baseurl }}/assets/img/presents/pibot.jpg)
 

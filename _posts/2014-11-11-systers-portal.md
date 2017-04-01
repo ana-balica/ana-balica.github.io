@@ -27,7 +27,7 @@ with few developers involved.
 Systers Portal is one of those one-man-show projects, that might suit very well
 the open source beginners.
 
-### What is that?
+## What is that?
 
 [Systers](http://systers.org/) is the world's largest email community of women
 in technical roles in computing. It is indeed huge and covers a lot of technical
@@ -51,7 +51,7 @@ hosted on [portal.systers.org](http://portal.systers.org/).
 isn't going to match exactly your development version from the official repository. The
 development version incrementally adds features present in the prototype.*
 
-### Reasons
+## Reasons
 
 Here are some of the obvious reasons why Systers Portal is so good for you:
 
@@ -80,7 +80,7 @@ Here are some of the obvious reasons why Systers Portal is so good for you:
 * By contributing to Systers Portal, you will help women from technical fields
   to enjoy a friendly environment via a unified portal.
 
-### Links! Links! Links!
+## Links! Links! Links!
 
 * GitHub repo - [github.com/systers/portal](https://github.com/systers/portal)
 * Documentation - [systers-portal.readthedocs.org](http://systers-portal.readthedocs.org/)

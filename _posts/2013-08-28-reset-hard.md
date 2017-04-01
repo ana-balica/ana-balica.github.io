@@ -13,7 +13,7 @@ Fair enough the command is considered potentially dangerous. I have even seen bl
 
 In fact as I learned from [Pro Git](http://git-scm.com/book) the dreadful harm is reversible...
 
-### Lost my commits
+## Lost my commits
 
 So let's take an example. Suppose you just have started a new project and your history looks like this:
 
@@ -47,11 +47,11 @@ f1c16f4 HEAD@{5}: commit: second
 
 * use `git log -g` if you still can't comprehend which is the one
 
-### Lost stagging area
+## Lost stagging area
 
 Worse then reseting to a commit in the past, it is reseting the HEAD - `git reset --hard HEAD`. But don't worry if those were in your staging area, which means your index knew about them. Type `git fsck --lost-found`. It checks the validity of objects in the database and therefore you will see your dangling blob there. You can open it and check it's contents. For recovering all that data simply dump it's contents to the file `git show 898910b > test.txt`, where the SHA is the blob's SHA.
 
-### Lost unstagged area
+## Lost unstagged area
 
 The horror is here! At this point you have made some changes to your files, never `git add`ed them, and then the magic happen and wiped away all that. Must be a crisis in your life, you are doomed, life doesn't make sense any more...
 

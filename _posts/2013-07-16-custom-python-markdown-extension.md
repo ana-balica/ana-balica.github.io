@@ -11,7 +11,7 @@ tags:
 
 The API is clean and comprehensible. The reason of writing this article is that maybe somebody else will bump into the same problems like me and might find some of the solutions good enough to be used.
 
-### Problem statement
+## Problem statement
 
 Right now I am writing in Markdown. When I want to insert an image I am doing the following `![My Image](/static/img/my_image.png)`. I specify the relative path, because when I switch to different domain names, I want to have the same picture and no broken links. So I figured it out there can be 2 ways to solve that:
 
@@ -20,11 +20,11 @@ Right now I am writing in Markdown. When I want to insert an image I am doing th
 
 At this moment I would choose the first solution. But I implemented the second one, so I want to share some basic knowledge.
 
-### My setup
+## My setup
 
 I use [Flask-FlatPages](http://pythonhosted.org/Flask-FlatPages/) for rendering articles. Internally Python `markdown` module is used, and that means that you build your own extension easily.
 
-### Consists of
+## Consists of
 
 The extension must have:
 
@@ -32,7 +32,7 @@ The extension must have:
 * a function called `makeExtension()`, since you will be having per module one single extension. When you will specify the name of the extension (i.e. to the configuration variables of Flask FlatPages or directly when creating the Markdown instance), it will import the module and call that function. Here I am just quoting the documentation.
 * some kind of processor that will perform the manipulations with your markdown text
 
-### Let's start coding
+## Let's start coding
 
 {% highlight python %}
 def makeExtension(configs=[]):
@@ -92,6 +92,6 @@ class AbsoluteImagesExtension(Extension):
 The extension lives here - [https://gist.github.com/ana-balica/5944798](https://gist.github.com/ana-balica/5944798).
 
 
-### Enabling the extension
+## Enabling the extension
 
 For Flask do something like that - `FLATPAGES_MARKDOWN_EXTENSIONS = ['absolute_images(base_url=http://this-important-url)']`  in the config. First Markdown will search for the extension in the module directory - `markdown.extensions`. If you don't want to keep it there for some reasons, you can make the extension name contain dots (then Markdown will import it as-is) or prepend to the extension filename `mdx-` (`mdx-absolute_images`). But be careful that the `mdx-` notation is discouraged from being used.

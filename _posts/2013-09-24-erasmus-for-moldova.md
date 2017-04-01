@@ -21,7 +21,7 @@ Republic of Moldova is not part of the EU, so it is participating in a special
 project within Erasmus Mundus, called [EWENT](http://ewent.meil.pw.edu.pl/). And
 now starts the interesting part...
 
-### So, what is EWENT?
+## So, what is EWENT?
 
 Seriously, do you want me to copy-paste from their official website? Generally
 most of the information can be found there, read it carefully. The information
@@ -47,7 +47,7 @@ plane tickets). And if it says 1000€, then you will get monthly this exact amo
 of money. Usually for normal Erasmus, students get paid much less, so you can
 consider yourself lucky.
 
-### Who is eligible?
+## Who is eligible?
 
 You must be a student or an employee to a high education institution (like a university)
 and not necessarily from UTM. Of course you need to have a Moldovan citizenship and
@@ -61,7 +61,7 @@ Don't hesitate even if you are in your last year, it's totally fine to come to
 Erasmus and write your thesis here (actually will experience that in my next
 semester :D).
 
-### Motivation
+## Motivation
 
 That might be not exactly obvious to everybody, why go to Erasmus at all. So I say
 Erasmus is awesome, because:
@@ -93,7 +93,7 @@ Erasmus is awesome, because:
 Also any of those points can be extended with lots of cool moments that are awaiting
 for you.
 
-### How can I apply?
+## How can I apply?
 
 The official application is on [EWENT](http://ewent.meil.pw.edu.pl/app/). Mind
 the deadlines and watch for the opening of the registration. As for the Erasmus
@@ -105,7 +105,7 @@ documents for you and give you feedback on your application. Keep in touch with
 Mariana, because she can provide a lot of useful information. Moreover she
 participates in the decision making process, so it is good if she got to know you.
 
-### What can I do to be selected?
+## What can I do to be selected?
 
 For short:
 
@@ -122,7 +122,7 @@ For short:
 In reality there's is no general recipe of how students get selected. We can only
 guess what is appreciated more and what is skipped from the grading.
 
-### I am an Erasmus student
+## I am an Erasmus student
 
 Happy news! You were selected.
 

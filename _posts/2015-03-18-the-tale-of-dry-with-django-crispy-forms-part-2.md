@@ -19,7 +19,7 @@ Also [@maraujop](https://twitter.com/maraujop) -- crispy-forms developer -- made
 several very helpful suggestions in the comments area, which brings us to Part II.
 
 
-### Mistakes of the past
+## Mistakes of the past
 
 The story of Foo people can be found in this [archive]({{ site.baseurl }}/2014/11/04/the-tale-of-dry-with-django-crispy-forms/).
 Their end was tragic. They knew truth was somewhere close, but they were unable
@@ -34,7 +34,7 @@ Decline of Foo marked the birth of powerful Bar people.
 
 {% include figure.html src="/assets/img/dry-tale-2/laputa.jpg" caption="Laputa: Castle in the Sky (Ghibli Studio) - How I imagine the fairy tale kingdoms" %}
 
-### Reforms
+## Reforms
 
 Assume that Bar model, view and template are similar to Foo. Bar people knew
 they should start with the API, and so they shaped their dreams first.

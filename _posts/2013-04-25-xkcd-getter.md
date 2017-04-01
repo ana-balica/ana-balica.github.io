@@ -19,7 +19,7 @@ The idea to create this post came out of this [comic](http://xkcd.com/859/):
 
 Tried my spider on it and it didn't crash, gave me the title, the caption and the picture - yey!
 
-### Text or screencast
+## Text or screencast
 
 If you are a visual person, then you can watch the screencast below. It describes every single line of code written. Important: the version of the script used in the screencast is a bit outdated, some design solutions were changed, but if you are interested mainly in parsing, then the video is eligible to be watched.
 
@@ -27,7 +27,7 @@ If you are a visual person, then you can watch the screencast below. It describe
 
 If you don't like watching looong screencasts (like me), then here is a short overview of the script. Also you can find the source code [right here](https://gist.github.com/ana-balica/5454270).
 
-### Prerequisites
+## Prerequisites
 
 You will need:
 
@@ -35,7 +35,7 @@ You will need:
 2. [lxml library](http://lxml.de/)
 3. optionally a browser extension to check you xpaths. I am using [XPath Helper](https://chrome.google.com/webstore/detail/xpath-helper/hgimnogjllphhhkhlmebbmlgjoejdpjl) for Chrome
 
-### Downloader
+## Downloader
 
 Create a separate class that will hold the download functionality. Here is the snippet:
 
@@ -80,7 +80,7 @@ Pass to the constructor the URL where from to download the contents. There are 2
 There is also a scenario when the downloaded content is an image (binary file). For that we need explicitly to pass the `is_image=True` parameter. An image will be saved on the local machine in the current directory (where the script is placed).
 
 
-### Parser
+## Parser
 
 Parser class is a not a generic class. It is build specifically for parsing [xkcd.com](http://xkcd.com/). If you plan on extending the spider, then it might be a good idea to create an interface `Parser` and let other classes implement that interface.
 

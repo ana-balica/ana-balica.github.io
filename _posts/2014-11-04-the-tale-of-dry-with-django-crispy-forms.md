@@ -15,7 +15,7 @@ and you don't want to style them yourself. Let's say, you came to the idea that
 [django-crispy-forms](http://django-crispy-forms.rtfd.org) fits your needs
 perfectly (it definitely fits mine).
 
-### How it all began
+## How it all began
 
 This is a story about a model *Foo*.
 
@@ -153,7 +153,7 @@ solved for groups of buttons and inputs. Unfortunately it persists in case of
 an input/button and anchor tag with `role="button"`. If it's bugging you, add
 some margin by yourself.
 
-### The misfortune
+## The misfortune
 
 Life goes on and *Foo* objects seem to be doing just fine. Until a great misfortune
 takes over their destiny. It doesn't seem like a big deal, since all that
@@ -178,7 +178,7 @@ principle.
 It's not too late to fix the situation, until the quicksand doesn't devour
 all the codebase into the abyss of "refactoring is too expensive for us".
 
-### Layout objects to the rescue
+## Layout objects to the rescue
 
 At first, it seems like a good idea to use
 [Composing layouts](http://django-crispy-forms.readthedocs.org/en/latest/layouts.html#composing-layouts).
@@ -317,7 +317,7 @@ In the unittest we render the form with the custom layout object
 `SubmitCancelFormActions` and check for some keywords if present in the rendered
 HTML.
 
-### Happy ending
+## Happy ending
 
 That's all folks! Keep DRY and write unittests!
 

@@ -7,7 +7,6 @@ tags:
   - django
 ---
 
-
 Early on when [DjangoCon Europe 2015](http://2015.djangocon.eu/) was announced,
 it instantly differentiated itself from other conferences.
 

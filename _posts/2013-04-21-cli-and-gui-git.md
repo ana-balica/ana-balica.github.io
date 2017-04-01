@@ -11,7 +11,7 @@ To be clear from the very beginning, I vote for CLI git to start with. There's n
 
 During my interaction with git (which started not so long ago), I've developed a hybrid workflow. There are lots of git clients and to be honest, I haven't tried many of them, so I'll just present the one I'm familiar with - **gitg**.
 
-### History
+## History
 
 Visualizing your tree in git is definitely a very useful thing. To achieve the following you can use the `--graph` argument. If you leave the default `log` command then the long commit messages will make it hard to read the topology.
 
@@ -40,14 +40,14 @@ Not bad, but a GUI client makes it better. Basically it's the same branch topolo
 ![gitg - history tree]({{ site.baseurl }}/assets/img/git/gitg1.png)
 
 
-### Diffs
+## Diffs
 
 `git diff` shows changes between working tree, commits, branches, etc. It can take lots of arguments and is very flexible. In case you just don't want to remember all those possibilities, the client will provide snippets with diffs for lots of scenarios. It becomes handy when you want to review what you are about to commit or what what do you want to add to your staged area, what is inside your stashes, what have you committed long ago.
 
 ![gitg - see the diffs]({{ site.baseurl }}/assets/img/git/gitg2.png)
 
 
-### Stash
+## Stash
 
 I use stashing all the time. And I also try not to keep them there for a long time. So mainly I do something like this:
 
@@ -61,20 +61,20 @@ When you `pop` a stash, this means that you apply your stash to the current work
 
 If you want to check the diffs inside your stash type `git stash show -p stash@{0}`. Not the most pretty stash name (while typing you need to reach for @ and curly braces), so I find it quite nice to visualize the list of stashes and the diffs in gitg. The annoying part is always choosing the branch where to apply the stash, there's no 'please make the current branch default for stashes'.
 
-### Blame
+## Blame
 
 The client git is pretty straight-forward and has only the ability to blame an entire file. Hence it does `git blame <filename>`. Still useful, though personally I think would be nice to get a link to the commit from the blame section.
 
 ![gitg - blaming]({{ site.baseurl }}/assets/img/git/gitg3.png)
 
 
-### Patch
+## Patch
 
 Very often I find myself willing to add to the staged area only several lines from a file. Then I do `git add -p` and add just the hunks that I want. With gitg I choose the Commit tab and the file I want to patch and simply by holding `CTRL` and clicking on the lines, I can choose exactly what I want to stage.
 
 The client has this nice feature to stage specific lines, but at the same time it can be quite annoying when you got big chunks of code and you want to make it fast. Some git clients allow to select lines and stage them all at once, unfortunately not gitg.
 
 
-### Conclusion
+## Conclusion
 
 At the beginning I though that GUI git is going to be presented as a very handy tool, but eventually I got convinced that it barely associates with the CLI power.

@@ -16,7 +16,7 @@ you are writing an app that'll work with a SQL database, except you don't.
 If you go down that road, how do you figure out why a piece of Django code is slow?
 This brings us to Appstats.
 
-### What is Appstats
+## What is Appstats
 
 [Appstats](https://cloud.google.com/appengine/docs/python/tools/appstats) is a
 profiling library that comes together with the App Engine SDK. Its
@@ -28,7 +28,7 @@ Procedure Calls include:
 * URL Fetches
 * Mail sends
 
-### Why do you need it
+## Why do you need it
 
 Django offers a lovely ORM to abstract our code from a specific database. It
 has tremendous benefits and (at least) one big drawback. It hides the complexity of
@@ -41,7 +41,7 @@ It shows developers the raw SQL queries and the time it took to
 perform them. Unfortunately it's rather useless when it comes to profiling an App Engine
 app - remember there is no SQL. But thanks to App Engine developers, we have Appstats.
 
-### How to use it
+## How to use it
 
 It's actually incredibly simple. To enable Appstats you need to update only 2 files:
 
@@ -69,7 +69,7 @@ Since Django is a multi-layered framework, some of the calls recorded by Appstat
 can have very deep stacks, so the [default value of 10](https://googleappengine.googlecode.com/svn/trunk/python/google/appengine/ext/appstats/sample_appengine_config.py)
 won't be enough to reach our own code. You'll see for yourself soon.
 
-### Appstats console
+## Appstats console
 
 Once the middleware and the builtin are enabled, you can view the Appstats console
 at [http://127:0.0.1:8000/_ah/stats/](http://127.0.0.1:8000/_ah/stats/). If you bother, this URL can be changed.
@@ -112,7 +112,7 @@ query or you are writing too often to memcache (without a good reason), or you
 are not fetching from memcache when you should be, or you are creating a hell lot
 of deferred tasks, or... there can be lots of reasons!
 
-### Can I use it in production?
+## Can I use it in production?
 
 You could, if you want to identify a problem that is production specific, but no
 real reason to leave it enabled, because Appstats will only store the last 1000

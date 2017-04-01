@@ -12,7 +12,7 @@ The reason of writing all this down is to overflow my brain with redundancy, "do
 
 One chapter &#8594; one article. And the first one is called *Welcome to Design Patters*.
 
-### Encapsulation
+## Encapsulation
 
 The first announced Design Principle in the book is:
 
@@ -34,7 +34,7 @@ Ok, that's the moment when you should `SHIFT+Delete` your code. Kidding :) You n
 
 ![Encapsulation]({{ site.baseurl }}/assets/img/design-patterns/encapsulation.png)
 
-### Interface
+## Interface
 
 That green spot represents all the `Fight/Weapon` Behaviours. It's not a good idea to create just a bunch of classes, since you will lose the ability to use polymorphic behaviour and will hard-code each behaviour to each character. Create an interface. Side-note: here the interface doesn't mean necessarily a Java interface - it's a conceptual interface, a special class that holds the public declarations and has no proper implementation (also not always true, think about abstract classes in C++ which can contain implementation).
 
@@ -76,7 +76,7 @@ public class Queen extends Character {
 
 Moreover by having our `WeaponBehaviour` setter, we can successfully teach our `Characters` to learn how to use new weapons at runtime.
 
-### Composition
+## Composition
 
 A perfect inheritance is a IS-A relationship. It is actually more than just a IS-A according to L principle from SOLID. Nevertheless what we have done here is eliminating IS-A and using HAS-A, which is composition.
 
@@ -90,6 +90,6 @@ By the way, all that talk about fighting characters is a patters called **Strate
 
 Strategy is a behavioural pattern. If you want to learn more, [check this out](http://www.vincehuston.org/dp/strategy.html).
 
-### Conclusion
+## Conclusion
 
 ![Patterns rule]({{ site.baseurl }}/assets/img/design-patterns/patterns_rule.jpg)

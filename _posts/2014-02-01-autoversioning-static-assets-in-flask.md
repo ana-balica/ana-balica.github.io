@@ -19,7 +19,7 @@ way.
 
 ![script version]({{ site.baseurl }}/assets/img/autoversioning/script_version.png)
 
-### Requisites
+## Requisites
 
 The solution to caching problem can be implemented using any programming language,
 tool, framework, etc. Just to show you an example, I picked up [Flask](http://flask.pocoo.org/),
@@ -27,7 +27,7 @@ which comes bundled with [Jinja2](http://jinja.pocoo.org/docs/) templating langu
 for Python.
 
 
-### How it works?
+## How it works?
 
 Let's say you have a CSS file and you included it in your HTML file. Now the trick
 is to give a different name to the CSS file when you are linking it to the template.
@@ -42,7 +42,7 @@ The version must be a unique number. Consider any of those:
  * hash of the last commit
  * hash of the file
 
-### How to code it?
+## How to code it?
 
 Most of the templating languages have filters. For example, in Flask and Jinja2
 it is very easy to create a custom filer. Suppose you have configured Jinja2 to load
@@ -83,7 +83,7 @@ of the last modification of the file, which is going to be a floating-point numb
 If you want you can surround it in a `try-except` clause in case the file doesn't
 exist. The later is easy - just preppend the timestamp to the filename and return it.
 
-### Conclusion
+## Conclusion
 
 A filter gave us an elegant and simple solution. Use the filter for any static
 files, whose contents will be updated sooner or later, but the name will stay
@@ -92,7 +92,7 @@ the same.
 If you want to see the filter implemented into a real project, then you can
 take a look at this [blog's github repo](https://github.com/ana-balica/codee_blog).
 
-### Update
+## Update
 
 Thanks to my friends, I have found out that query string to static assets is **not**
 generally a good option.

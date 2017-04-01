@@ -30,7 +30,7 @@ newcomers should catch on very fast. I think newcomers need help and guidance.
 That's why I figured it's a good idea to disseminate some of the common rules
 of open source world.
 
-### How do I get started?
+## How do I get started?
 
 If you made the decision to contribute, don't go to the organization's
 communication channel and say that out loud. That's not bad, it's just useless.
@@ -52,7 +52,7 @@ fact, if you figured the documentation is not straight-forward, express your
 concern and propose a solution. Your feedback will be appreciated if the
 community is welcoming.
 
-### Follow that guide
+## Follow that guide
 
 Usually a community that cares about code quality will comply to a code style guide.
 This is a very important document, read it carefully. It will teach you about
@@ -64,7 +64,7 @@ Pay attention to the tools the community uses. They might prefer one pastebin
 over another, have a community-wide wiki, expect people to use a single code
 review tool. Follow those recommendations. It makes everybody's life easier.
 
-### Find easy TODO
+## Find easy TODO
 
 Projects usually have a bug tracker, whether it's a Trac tracker, GitHub issues
 or simple wiki page. Doesn't matter as long as the tracker is up-to-date. Try to
@@ -80,7 +80,7 @@ work.
 
 Well, now is your time to shine.
 
-### Branch that out
+## Branch that out
 
 Most probably you will need to create a new feature branch. Holds true for git,
 somewhat for mercurial. Name the branch appropriately. Don't name
@@ -95,7 +95,7 @@ their branches contain the latest changes.
 Do this for every feature. It might seem like overhead, but it actually saves
 some pain in the future.
 
-### Run those tests
+## Run those tests
 
 After you solved the ticket, take some time to run all the necessary scripts
 before committing. Those might be unittests, UI tests, linters. Pay attention
@@ -108,7 +108,7 @@ you and others from submitting clean working code.
 
 Seriously, run those tests.
 
-### Code review
+## Code review
 
 Go back to the docs and search for the section that tells you where and how to
 submit code for review.
@@ -129,7 +129,7 @@ hard to emphasize how important is that step. Take a minute or two to scan with
 your eyes all the code. You will be surprised to find out that you have slipped
 some unwanted code in there or you just found a better solution.
 
-### Pull request
+## Pull request
 
 Pull request process can be merged with the code review process. Contributors can
 review your code once you make the pull request. Or they might be separate.
@@ -149,7 +149,7 @@ discard your contribution.
 
 Keep it short. Keep it simple. And people will love it.
 
-### Wrap-up
+## Wrap-up
 
 It's OK to make mistakes, as long as we acknowledge and fix them. The rules we
 have imposed on ourselves help keep the codebase readable and maintainable, hence

@@ -15,7 +15,7 @@ It's also an interesting challenge to create something complex
 out of something trivial.
 Constraints foster creativity.
 
-### Meaning
+## Meaning
 
 The main goal of an animation is to convey meaning.
 Think of it as another dimension to express an idea.
@@ -30,7 +30,7 @@ If you loose clarity, then this is a meaningful animation.
 In this case, the animation is used to convey playfulness.
 "Potato is a serious company, but we also like to be silly."
 
-### Don't overdo it
+## Don't overdo it
 
 In conjunction with the previous statement, don't fill up your presentation
 with useless animations.
@@ -46,7 +46,7 @@ I'm looking at you [Prezi](https://prezi.com/_ueivw8ad8xx/prezi-demo/).
 
 Oh you, flame effect, I will never use you, unless I'm going for on-purpose tacky style.
 
-### Baby steps
+## Baby steps
 
 So how to make the first slide with the smiling Potato?
 First solution: use 2 slides, one with a plain Potato
@@ -59,7 +59,7 @@ Click/tap and, voila, the image appears!
   <iframe src="https://www.youtube.com/embed/W3naF-73Olw" frameborder="0" allowfullscreen></iframe>
 </div>
 
-### Bullet points
+## Bullet points
 
 They are haunting us in every presentation! They are useful though, as they reduce
 long complex sentences to a few important key points.
@@ -80,7 +80,7 @@ and in presentation mode you need to scroll to get to the last sentence,
 then it's a good idea to split up the notes into a couple of slides
 and hence duplicate the content. *I should start doing that* ʕ⊙ᴥ⊙ʔ
 
-### Center of attention: highlighting
+## Center of attention: highlighting
 
 As you speak you might want to direct the attention of your audience
 to a specific line of code, element or word.
@@ -104,7 +104,7 @@ The animation should be fast and noticeable.
 In most cases 1s is too long.
 Experiment with 0.5 - 1s range and see what feels best to your presentation pace.
 
-### Center of attention: opacity
+## Center of attention: opacity
 
 Similarly to highlighting, you can use opacity to make something stand out
 in the midst of blurred/semi-transparent content.
@@ -129,7 +129,7 @@ and apply a single animation.
 Unfortunately for the current 3 elements when grouped, the animation doesn't apply well.
 Would be fun to aggregate and post all Keynote bugs I've discovered while preparing for my talks.
 
-### Multi-actions
+## Multi-actions
 
 Things get complicated when you want something to go opaque, then transparent,
 then opaque again.
@@ -143,7 +143,7 @@ and operate from there (that was so not obvious at the beginning).
   <iframe src="https://www.youtube.com/embed/-CFr_VluCjg" frameborder="0" allowfullscreen></iframe>
 </div>
 
-### A process
+## A process
 
 A single animation is worth a thousand words when modeling a process.
 It's like when they spend 5 pages to explain how an engine works,

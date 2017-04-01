@@ -12,7 +12,7 @@ Why? Half-assed work can make a company look bad, lose money, lose clients, gene
 
 Over the last couple of months, I've developed my own internal code review checklist. I use it both for reviewing for own finished code and my teammates code complete tickets. It's split up into 3 sections: code, automated testing and manual testing.
 
-### Code
+## Code
 
 1. **Does it compile?** Look for obvious errors, most IDEs will spot them for you. Baffling that these kind of issues slip into code completes, but we are all humans and mistakes happen. Most common reasons: last minute untested change that surely won't break anything or forgot to push the fix.
 
@@ -39,7 +39,7 @@ Over the last couple of months, I've developed my own internal code review check
 1. **Does it have good and enough documentation?** Not to be ignored or considered of least importance.
 
 
-### Automated testing
+## Automated testing
 
 1. **Does it need tests?** Sometimes a favicon update will do just fine without tests.
 
@@ -54,7 +54,7 @@ Over the last couple of months, I've developed my own internal code review check
 1. **Are tests testing the edge cases?** Best case scenarios suck!
 
 
-### Manual testing
+## Manual testing
 
 1. **Can you run the code?** Don't skip that. Automated tests look good on paper (ehhhm, computer screen?), but running the project is still a good idea. Automated tests reduce manual testing to the minimum, but don't exclude it completely.
 

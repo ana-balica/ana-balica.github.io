@@ -10,7 +10,7 @@ Especially for girls. I used to pack up a giant travel luggage, even if I was go
 
 Times change and here is my first attempt to pack light for a 3-day trip. Start small with short trips and develop your personal mini-perfect-kit for longer journeys -- that's my motto.
 
-### Checklist
+## Checklist
 
 Without even considering other options, I have bought a backpack. Handbags are a lot more uncomfortable to carry. Suitcases? That isn't going to be light. I have a [Deuter GoGo](http://www.deuter.com/de/en/city/gogo-80146-74.html) with a volume of 25 litre in a girlish magenta arrowcheck color. Going beyond 30 litre already starts feeling big and not casual at all. The dimensions are also relevant to the airplane company that will allow you to take the bag on-board as hand luggage. The GoGo model is designed for city and traveling and lies within reasonable price range. I have purchased mine for 40 EURO. The killer feature of Deuter backpacks are the airstripes, which make your trips comfy, non-sweaty-back and hence enjoyable.
 
@@ -60,7 +60,7 @@ The little bottles of 100ml are simple, yet brilliant. You can buy a 4-pack from
 
 Thank goodness it's summer and my backpacks weights only 4 kg.
 
-### 406 Not Acceptable items
+## 406 Not Acceptable items
 
 Along with the checklist, there is a list of stuff I don't take with me in the trip. I am not talking about a basketball ball or a frying pan, but about the things that I used to take. And so those are:
 
