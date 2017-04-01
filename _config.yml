@@ -10,7 +10,6 @@ author: "Ana"
 url: "http://ana-balica.github.io"
 baseurl: ""
 
-# A short presentation of yourself. Will show in the sidebar, under your name. Best usage would be between 30 to 50 words.
 author-bio: "I'm a software developer. I mostly do Python.
 This blog is about my adventures with code, travel experiences and relevant life events.
 
@@ -20,20 +19,14 @@ This blog is about my adventures with code, travel experiences and relevant life
 
 <p><em>Please don't take my words for granted, because Internet is full of bad advice, and I might be part of it inadvertently.</em></p>"
 
-# Google Analytics (you may want to changes these with yours or even delete :)
-
 ga_domain: ana-balica.github.io
 ga_tracking_id: UA-52365795-1
-
-# Other (refer to http://jekyllrb.com/docs/home/ for further details on the below)
 
 markdown: kramdown
 permalink: pretty
 
 paginate: 10
 paginate_path: "/page/:num"
-
-# SCSS
 
 sass:
   sass_dir: _scss
