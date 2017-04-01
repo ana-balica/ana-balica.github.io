@@ -5,7 +5,7 @@ header {
 
 .h-wrap {
   @extend %padding-large;
-  
+
   h1.title {
     @extend h3;
     display: inline-block;
@@ -32,14 +32,14 @@ header {
       transition:         background .3s 0s ease;
       background: transparent;
 
-      &::before, 
+      &::before,
       &::after {
         top:0;
         width: 30px;
-        -webkit-transition: top .3s ease, 
-                            transform .3s .5s ease;   
-        transition:         top .3s ease, 
-                            transform .3s .5s ease; 
+        -webkit-transition: top .3s ease,
+                            transform .3s .5s ease;
+        transition:         top .3s ease,
+                            transform .3s .5s ease;
       }
 
       &::before {
@@ -68,7 +68,7 @@ header {
   &:hover {
     opacity: 1;
   }
-  
+
   .lines {
     display: inline-block;
     position: relative;
@@ -86,7 +86,7 @@ header {
       width: 25px;
       height: 2px;
       background: $text-color;
-      border-radius: 20px; 
+      border-radius: 20px;
 
       transition: all .3s ease;
       -webkit-transition: all .3s ease;
@@ -109,7 +109,7 @@ header {
       }
     }
   } // .lines
-  
+
 } // end .menu-icon
 
 
@@ -165,13 +165,12 @@ header {
   .bio {
     display: block;
     margin-bottom: 2em;
-    h1 {
-      @extend h3;
-      margin: 0; 
+    h2 {
+      margin: 0;
     }
     p {
       font-size: 90%;
-      color: lighten($text-color, 30%);
+      color: lighten($text-color, 10%);
       margin-bottom: 0;
     }
   }
