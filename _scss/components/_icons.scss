@@ -53,3 +53,8 @@ nav ul li:before {
 .icon-play:before {
   content: "\e912"
 }
+.screen-reader-text {
+  position: absolute;
+  top: -9999px;
+  left: -9999px;
+}
