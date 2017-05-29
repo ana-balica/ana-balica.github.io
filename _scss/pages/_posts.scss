@@ -103,6 +103,26 @@
     font-size: $font-size-s;
   }
 
+  .slide-section {
+    &:after {
+      content: '';
+      display: block;
+      clear: both;
+    }
+
+    img {
+      float: left;
+      width: 35%;
+      margin: 0 $spacing-s 1.3em 0;
+
+    }
+  }
+
+  .section-delimiter {
+    border-top: 1px dotted;
+    border-style: none none dotted;
+    color: $border-color;
+  }
 
 } // end #single-wrap
 
