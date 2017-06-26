@@ -48,7 +48,7 @@ It's actually incredibly simple. To enable Appstats you need to update only 2 fi
 {% highlight python %}
 # settings.py
 MIDDLEWARE_CLASSES += (
-  'google.appengine.ext.appstats.recording.AppStatsDjangoMiddleware'
+  'google.appengine.ext.appstats.recording.AppStatsDjangoMiddleware',
 )
 {% endhighlight %}
 
