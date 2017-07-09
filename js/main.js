@@ -63,4 +63,8 @@ window.onload = function() {
 
         return false;
     });
+
+    // Add anchor tags
+    anchors.options.placement = 'left';
+    anchors.add('#article-body > h2, #arcticle-body > h3, #arcticle-body > h4, #arcticle-body > h5, #arcticle-body > h6');
 }
