@@ -27,3 +27,7 @@ Databases too have different interpretations for this value:
 - SQLite is identical to Python's `isoweekday()` representation  - 1 (Monday) to 7 (Sunday)
 
 Even though the value varies between databases, it's still not exactly clear why this value is so alien to any of the Python representations. I think I will pester some people today at [DjangoCon US](https://2017.djangocon.us/).
+
+---
+
+**UPD:** Thanks to [Marc Tamlyn](https://twitter.com/mjtamlyn) for confirming that there isn't any special reason for the choice of weekday interpretation in Django (maybe MySQL). This code was last time updated in [2009](https://github.com/django/django/commit/a584a6b40f8) and, at this point, an update would be backwards incompatible.
