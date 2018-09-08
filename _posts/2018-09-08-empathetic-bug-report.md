@@ -34,4 +34,4 @@ At the end of the day, the quite blunt obvious defect is often a cause of miscon
 wrong environment, misunderstanding of the feature
 (which admittedly can be a bug, but should have been caught during early discussions and refinement).
 
-Next time at work when you're ragging over a feature that doesn't work, don't forget to add *"for me"*.
+Next time at work when you're raging over a feature that doesn't work, don't forget to add *"for me"*.
