@@ -4,6 +4,7 @@ title: "Contributing to open source like a boss"
 date: 2015-01-11
 tags:
   - code
+  - socialcode
   - open source
 ---
 

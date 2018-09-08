@@ -3,7 +3,7 @@ layout: post
 title: "Humanizing among coders"
 date: 2017-05-28
 tags:
-  - social
+  - socialcode
   - open source
 ---
 
