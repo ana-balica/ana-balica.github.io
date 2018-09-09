@@ -19,7 +19,7 @@ especially for people who have had less experience interacting with developers.
 But even we (engineers, product owners, designers) make this mistake every so often.
 
 That's not the biggest issue though.
-What matters more is phasing.
+What matters more is phrasing.
 The assentive tone of the sentence sends a subtle message.
 It somewhat implies that the feature X doesn't work regardless of circumstances,
 for all users and the whole team managed to spend a couple days work and ship nothing.
