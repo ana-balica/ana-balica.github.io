@@ -6,7 +6,7 @@ tags:
   - misc
 ---
 
-I've given [talks](http://ana-balica.github.io/talks/) on stage since 2015. With time and practice I found my own style and pace. I learned things that come easily to me and things that I struggle with.
+I've given [talks](http://ana-balica.github.io/talks/) on stage since 2015. With time and practice I found my own style and pace. I learned things that come to me easily and things that I struggle with.
 
 One of these things is speaking fluently and not making mistakes, which is tricky for someone like me who is not a native English speaker.
 
