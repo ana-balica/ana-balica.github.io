@@ -6,11 +6,11 @@ tags:
   - misc
 ---
 
-Some things about feedback I learned over the years. 
+These are some things I learned over the years about feedback. 
 
 ## Why
 
-Never loose focus on why we give and receive feedback. We do that because *we want to help others excel and to better ourselves*. 
+Never loose focus on why we give and receive feedback. We do that because **we want to help others excel and to better ourselves**. 
 Further below I break it down into 2 parts: giving via Situation-Behaviour-Impact model and receiving via Listen-Explore-Echo (not a coined term, sort of my interpretation).
 
 ## Situation-Behaviour-Impact
